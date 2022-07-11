@@ -1,0 +1,3103 @@
+Action:
+	Spraying: X-Clude, Fusilade Max (11519), Hallmark with Zeon Technology (12629) in GREAT FIELD 1/2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/01ca14c9-b76d-4365-9598-f3a36dd7403f
+
+Description: 
+	"Wind: 6 mph W
+
+Weather: Dry
+
+Temperature: 15 C
+
+Sprayed all newly drilled WOSR inc undrilled KWS area"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: milesn
+		- Mail: nick.chichester-miles@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-21T21:56:03+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: 2020/R/RAW/2037
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.250
+		- Unit: l/ha
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.650
+		- Unit: l/ha
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 75.000
+		- Unit: millilitres per hectare (ml/ha)
+	> quantity(quantity--standard)
+		- Measure: volume
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 100.0
+		- Unit: liters (l)
+	> quantity(quantity--standard)
+		- Measure: area
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 6.6
+		- Unit: hectares (ha)
+	> quantity(quantity--material)
+		- Name: X-Clude
+		- Description: "Note: Organic adjuvant.
+Purpose: Water Conditioner"
+		- LastUpdate: 2020-07-20T07:49:28+00:00
+	> quantity(quantity--material)
+		- Name: X-Clude
+		- Description: "Note: Organic adjuvant.
+Purpose: Water Conditioner"
+		- LastUpdate: 2020-07-20T07:49:28+00:00
+	> quantity(quantity--material)
+		- Name: X-Clude
+		- Description: "Note: Organic adjuvant.
+Purpose: Water Conditioner"
+		- LastUpdate: 2020-07-20T07:49:28+00:00
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> equipment(asset--equipment)
+		- Name: NH T6030
+		- LastUpdate: 2021-02-02T14:21:22+00:00
+		- Description: "Note: Mounted Sprayer Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Knight 24m Sprayer
+		- LastUpdate: 2020-11-26T15:30:48+00:00
+		- Description: "Agrovoc term: sprayers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7333"
+
+==============================================================================================
+
+Action:
+	Input 08/29/2019 - 00:00 Nitram WHITEHORSE 1
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/eeffd6eb-b94d-4bdb-b9df-c8e920797947
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: WHITEHORSE 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.803162159177305
+		- Longitude: -0.38467232622278147
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 87
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Nitram
+		- Description: "34.5% N
+Nitric Acid Ammonia Salt - NH4.NO3"
+		- LastUpdate: 2019-09-18T16:13:12+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Cascade Spreader
+		- LastUpdate: 2020-12-03T10:13:49+00:00
+		- Description: "Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Input  X-Clude, Fusilade Max (11519), Hallmark with Zeon Technology (12629) WHITEHORSE 1
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/7577cec2-7a92-49cf-9689-f47511429596
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: WHITEHORSE 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.803162159177305
+		- Longitude: -0.38467232622278147
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.25
+		- Unit: l/ha
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.65
+		- Unit: l/ha
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 75
+		- Unit: millilitres per hectare (ml/ha)
+	> quantity(quantity--material)
+		- Name: X-Clude
+		- Description: "Note: Organic adjuvant.
+Purpose: Water Conditioner"
+		- LastUpdate: 2020-07-08T06:28:42+00:00
+	> quantity(quantity--material)
+		- Name: X-Clude
+		- Description: "Note: Organic adjuvant.
+Purpose: Water Conditioner"
+		- LastUpdate: 2020-07-08T06:28:42+00:00
+	> quantity(quantity--material)
+		- Name: X-Clude
+		- Description: "Note: Organic adjuvant.
+Purpose: Water Conditioner"
+		- LastUpdate: 2020-07-08T06:28:42+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+
+==============================================================================================
+
+Action:
+	Spraying: slug pellets in GREAT FIELD 1/2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/275d6879-2445-44a3-b328-1262adb06d15
+
+Description: 
+	"Applied to area before it was ploughed
+Rate is dummy value as none stated"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: GREAT FIELD 1/2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80607397864791
+		- Longitude: -0.36263658469046284
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: Slug Pellets
+		- Description: "Agrovoc term: molluscicides
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_4897"
+		- LastUpdate: 2020-07-04T06:06:40+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: LONG HOOS 5 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/f7a94a5a-c277-4691-91aa-e9f40b37fdb7
+
+Description: 
+	"Applied slug pellets to commercial field LONG HOOS 5</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: LONG HOOS 5
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81405414724013
+		- Longitude: -0.3755947847033751
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:04:10+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: LONG HOOS 6/7 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/cf0c3760-9380-443d-a633-16af882fee44
+
+Description: 
+	"Applied slug pellets to commercial field LONG HOOS 6/7</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: LONG HOOS 6/7
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.814254654412515
+		- Longitude: -0.3766778573285136
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:06:23+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: GREAT FIELD 1/2 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/126b5894-3bcd-4f4f-a487-1f87270ae33a
+
+Description: 
+	"Applied slug pellets to commercial field GREAT FIELD 1/2</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: GREAT FIELD 1/2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80607397864791
+		- Longitude: -0.36263658469046284
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:04:34+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: GREAT HARPENDEN 2 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/0d01d0b9-800d-4449-a61b-108d15b1ed51
+
+Description: 
+	"Applied slug pellets to commercial field GREAT HARPENDEN 2</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: GREAT HARPENDEN 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.812179531353685
+		- Longitude: -0.36887305342399707
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:05:35+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: WHITEHORSE 1 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/e6b1be39-cfc7-4f61-8eb8-b2ac20f850be
+
+Description: 
+	"Applied slug pellets to commercial field WHITEHORSE 1</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: WHITEHORSE 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.803162159177305
+		- Longitude: -0.38467232622278147
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:07:27+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: WHITEHORSE 1 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/441e9f47-8313-4c91-b1dc-600bee4cbc2b
+
+Description: 
+	"Applied slug pellets to commercial field WHITEHORSE 1</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: WHITEHORSE 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.803162159177305
+		- Longitude: -0.38467232622278147
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:13:13+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: HOOSFIELD Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/2a7fe809-f732-4c7a-8de3-4d58a04dcda0
+
+Description: 
+	"Applied slug pellets to commercial field HOOSFIELD</p>Direct drilled area (ex CS/477) </p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: HOOS FIELD - direct drilled section 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:10:32+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: GREAT HARPENDEN 2 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/3c26bb7d-772d-4d93-9115-230bd6682f8b
+
+Description: 
+	"Applied slug pellets to commercial field GREAT HARPENDEN 2</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: GREAT HARPENDEN 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.812179531353685
+		- Longitude: -0.36887305342399707
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:09:20+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: LONG HOOS 5 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/3157b85d-71a7-41ce-be88-ef361ccc0053
+
+Description: 
+	"Applied slug pellets to commercial field LONG HOOS 5</p>odds and ends </p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: LONG HOOS 5
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81405414724013
+		- Longitude: -0.3755947847033751
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:11:21+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: LONG HOOS 6/7 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/d034b166-dc1c-425e-a152-3bf64b5b723e
+
+Description: 
+	"Applied slug pellets to commercial field LONG HOOS 6/7</p>odds and ends </p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: LONG HOOS 6/7
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.814254654412515
+		- Longitude: -0.3766778573285136
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:12:02+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: GREAT FIELD 1/2 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/90109022-2bc7-4c0a-80bc-0b08a70b7155
+
+Description: 
+	"Applied slug pellets to commercial field GREAT FIELD 1/2</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: GREAT FIELD 1/2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80607397864791
+		- Longitude: -0.36263658469046284
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:08:36+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: WHITEHORSE 2 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/c3367bbe-2c3d-4252-90b9-439e28340e76
+
+Description: 
+	"Applied slug pellets to commercial field WHITEHORSE 2</p>Odds and ends</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: WHITEHORSE 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80485330237396
+		- Longitude: -0.38351422385815936
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:13:56+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: GREAT FIELD 1/2 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/b93a9794-fc2b-407a-9aa6-0b6c80a90887
+
+Description: 
+	"Applied slug pellets to commercial field GREAT FIELD 1/2</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: GREAT FIELD 1/2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80607397864791
+		- Longitude: -0.36263658469046284
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:17:44+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Spread treatments for 2020/R/RAW/2027
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/edb751fd-7b28-472e-b98e-b601871ff2d1
+
+Description: 
+	"Spread treatments A, B, C, D by hand and before drilling
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Experiment Treatment
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url:
+Note: Indicates the logged activity is an experiment treatment. Is present in agronomy ontology"
+	> location(asset--land)
+		- Name: 2020/R/RAW/2027
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+
+==============================================================================================
+
+Action:
+	Spread treatments for 2020/R/RAW/2027
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/e2435ed8-4a9b-49e2-af9e-81ea00c61416
+
+Description: 
+	"Spread treatments E, straw mulch by hand and after drilling OSR, chopped straw with straw chopper
+
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Experiment Treatment
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url:
+Note: Indicates the logged activity is an experiment treatment. Is present in agronomy ontology"
+	> location(asset--land)
+		- Name: 2020/R/RAW/2027
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> quantity(quantity--material)
+		- Name: Straw
+		- LastUpdate: 2020-10-21T09:31:54+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+
+==============================================================================================
+
+Action:
+	Spraying: Sluxx in WHITEHORSE 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/3456e740-61d8-4483-afb0-acb72c895dee
+
+Description: 
+	"Applied by hand"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: 2020/R/RAW/2027
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: 2020/R/RAW/2027 2019 WHITEHORSE 2 Barbados
+		- LastUpdate: 2022-05-17T14:21:33+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: Sluxx HP (16571)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-06-29T10:12:33+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+
+==============================================================================================
+
+Action:
+	Spread treatments C, D, E for 2020/R/RAW/2025
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/f14fed05-4bde-469d-bb16-2ee838d2a693
+
+Description: 
+	"Spread Treatment C, D, E by hand after drilling 
+
+
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Experiment Treatment
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url:
+Note: Indicates the logged activity is an experiment treatment. Is present in agronomy ontology"
+	> location(asset--land)
+		- Name: 2020/R/RAW/2025
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: 2020/R/RAW/2025 2019 WHITEHORSE 2 Barbados
+		- LastUpdate: 2022-05-17T14:25:06+00:00
+		- Type: Barbados
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+
+==============================================================================================
+
+Action:
+	Applied slug pellets 2020/R/RAW/2025
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/2c078f03-419d-4a0f-beea-820b0252061e
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: 2020/R/RAW/2025
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:15:35+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: WHITEHORSE 2 RAW/2027
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/c609e977-16c8-40ad-b4b5-f46454b63895
+
+Description: 
+	"Applied slug pellets to experiment RAW/2027</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: 2020/R/RAW/2027
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:15:00+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Applied slug pellets: WHITEHORSE 1 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/cc39f7b8-e58d-45af-94a0-f7e94d2ac983
+
+Description: 
+	"Applied slug pellets to commercial field WHITEHORSE 1</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: WHITEHORSE 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.803162159177305
+		- Longitude: -0.38467232622278147
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: Ironmax pro (17122)
+		- Description: "Slug pellets
+Normally applied @ 5Kg/ha"
+		- LastUpdate: 2020-07-04T06:18:50+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Lehner slug pelleter
+		- LastUpdate: 2021-02-02T14:20:14+00:00
+		- Description: "Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: Kawasaki  Mule 610
+		- LastUpdate: 2021-08-10T12:52:56+00:00
+		- Description: "4WD Mule
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Herbicide
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/7ac10253-1507-4c6a-b5dd-b42b86cfa649
+
+Description: 
+	"As this is an SCP plot, the active ingredients are "low resistance risk" for black grass. "
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> image(file--file)
+	> image(file--file)
+	> image(file--file)
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> location(asset--land)
+		- Name: RRES LSRE Plot 25
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.6
+		- Unit: l/ha
+	> quantity(quantity--material)
+		- Name: Liberator (15206)
+		- LastUpdate: 2020-09-08T13:56:10+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+
+==============================================================================================
+
+Action:
+	Herbicide and Insecticide 
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/f5b995d3-f23f-4272-9ada-3f749a3086c3
+
+Description: 
+	"Post-emergence herbicide to tackle residual weeds in the conventional min-till WW - specifically targeting any black grass and the rye grass in the min-till wheat after grass plot
+Insecticide targeting aphids which have not been observed in field but are present at high numbers in the suction traps, and there are reports of observations locally
+Start: 14:00
+Finish: 14:45
+Wind speed: 7 mph
+Direction: SE
+Weather: Clear
+Temp: 10C
+Volume: 150 l/ha 
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> file(file--file)
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> location(asset--land)
+		- Name: RRES LSRE WW Conventional Min-till
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--equipment)
+		- Name: Knight 24m Sprayer
+		- LastUpdate: 2020-11-26T15:30:48+00:00
+		- Description: "Agrovoc term: sprayers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7333"
+	> asset(asset--equipment)
+		- Name: NH T6030
+		- LastUpdate: 2021-02-02T14:21:22+00:00
+		- Description: "Note: Mounted Sprayer Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.8
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 100
+		- Unit: millilitres per hectare (ml/ha)
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: l/ha
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 2
+		- Unit: l/ha
+	> quantity(quantity--material)
+		- Name: Atlantis WG (12478)
+		- LastUpdate: 2020-09-08T13:54:40+00:00
+	> quantity(quantity--material)
+		- Name: Atlantis WG (12478)
+		- LastUpdate: 2020-09-08T13:54:40+00:00
+	> quantity(quantity--material)
+		- Name: Atlantis WG (12478)
+		- LastUpdate: 2020-09-08T13:54:40+00:00
+	> quantity(quantity--material)
+		- Name: Atlantis WG (12478)
+		- LastUpdate: 2020-09-08T13:54:40+00:00
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> equipment(asset--equipment)
+		- Name: Knight 24m Sprayer
+		- LastUpdate: 2020-11-26T15:30:48+00:00
+		- Description: "Agrovoc term: sprayers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7333"
+
+==============================================================================================
+
+Action:
+	RR LSRE OSR Autumn Herbicide & Fungicide
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/3d5c3b8b-284d-4185-86b6-fdc1d0f3ff87
+
+Description: 
+	"start time: 15:00
+stop time: 16:45
+wind speed (mph): 7 Km/hr
+wind direction:  S/E
+temperature (C): 5
+weather: clear
+operator: B. Smith
+
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> file(file--file)
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> location(asset--land)
+		- Name: RRES LSRE OSR Conventional
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: RRES LSRE OSR SCP Min till
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: RRES LSRE Plot 02
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--equipment)
+		- Name: NH T6030
+		- LastUpdate: 2021-02-02T14:21:22+00:00
+		- Description: "Note: Mounted Sprayer Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> asset(asset--equipment)
+		- Name: Knight 24m Sprayer
+		- LastUpdate: 2020-11-26T15:30:48+00:00
+		- Description: "Agrovoc term: sprayers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7333"
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1.7
+		- Unit: l/ha
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.75
+		- Unit: l/ha
+	> quantity(quantity--material)
+		- Name: Dymid (17585)
+		- LastUpdate: 2020-09-08T13:57:12+00:00
+	> quantity(quantity--material)
+		- Name: Dymid (17585)
+		- LastUpdate: 2020-09-08T13:57:12+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> owner(user--user)
+		- Name: Ian Shield
+		- Mail: ian.shield@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-25T12:41:50+00:00
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> equipment(asset--equipment)
+		- Name: NH T6030
+		- LastUpdate: 2021-02-02T14:21:22+00:00
+		- Description: "Note: Mounted Sprayer Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Knight 24m Sprayer
+		- LastUpdate: 2020-11-26T15:30:48+00:00
+		- Description: "Agrovoc term: sprayers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7333"
+
+==============================================================================================
+
+Action:
+	OSR Spring Fertiliser
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/7309cd93-f663-4ba9-be8b-8ad1a1396870
+
+Description: 
+	"Plots: H22; H23; H27; H34; H36; 
+Notes: 296 kg ha Double Top = 80 kg N, 89 SO3"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> file(file--file)
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-09-08T13:57:41+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> equipment(asset--equipment)
+		- Name: Cascade Spreader
+		- LastUpdate: 2020-12-03T10:13:49+00:00
+		- Description: "Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Glyphosate all cover crops
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/4b0620b5-d238-410f-b3ba-d54c29967376
+
+Description: 
+	"Review: Products TBC. Also, does this apply to all plots, or just min-till (inversion plots they are ploughed in?)
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Pesticide Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: pesticide application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_27879"
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 3
+		- Unit: l/ha
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: l/ha
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> owner(user--user)
+		- Name: Ian Shield
+		- Mail: ian.shield@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-25T12:41:50+00:00
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> equipment(asset--equipment)
+		- Name: Knight 24m Sprayer
+		- LastUpdate: 2020-11-26T15:30:48+00:00
+		- Description: "Agrovoc term: sprayers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7333"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 188 kg/ha Nitram into GREAT FIELD 1/2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/6d1bce5c-925b-4d93-be22-abf0012b10f8
+
+Description: 
+	"188 Kg/ha Nitram gives 65 Kg/ha N "
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: GREAT FIELD 1/2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80607397864791
+		- Longitude: -0.36263658469046284
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 188
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: Nitram
+		- Description: "34.5% N
+Nitric Acid Ammonia Salt - NH4.NO3"
+		- LastUpdate: 2020-06-29T09:52:24+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 188 kg/ha Nitram into WHITEHORSE 1
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/b8af4cdf-e375-4be3-b358-f53efbecf324
+
+Description: 
+	"188 Kg/ha Nitram gives 65 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: WHITEHORSE 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.803162159177305
+		- Longitude: -0.38467232622278147
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 188
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: Nitram
+		- Description: "34.5% N
+Nitric Acid Ammonia Salt - NH4.NO3"
+		- LastUpdate: 2020-06-29T10:00:30+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into GREAT KNOTT 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/b808b4a3-fce8-4bc8-926c-d040e0a78543
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: GREAT KNOTT 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81013325005812
+		- Longitude: -0.3817490177058852
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:09:55+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into BLACKHORSE
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/ffbb54c6-ebdc-416d-aac6-3430381c0394
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: BLACKHORSE
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80581286853318
+		- Longitude: -0.39642985183800394
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 3
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:08:24+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into SCOUT
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/ff5701fd-554c-46ce-a49c-409287b621f8
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: SCOUT
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80810160460374
+		- Longitude: -0.39316101669031106
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:08:06+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into WEBBS
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/cae752a2-bf1a-4527-9540-55e912e0ab75
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: WEBBS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8041005399078
+		- Longitude: -0.38739965405785487
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:07:48+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into GREAT KNOTT 1
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/60fbbfed-bf8a-4a9c-aec3-d9d19d3836b7
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: GREAT KNOTT 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81228697359023
+		- Longitude: -0.3823328476587994
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:07:21+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into DELAFIELD
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/c6f24fe8-53fa-4b03-9a68-22b7223c2634
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: DELAFIELD
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8179355263131
+		- Longitude: -0.37668257743955635
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.5
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:09:36+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into GEESCROFT
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/d46d8c50-7442-466a-8403-a0be34ac4051
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: GEESCROFT
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.802927937551985
+		- Longitude: -0.36161359881134264
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.5
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:09:18+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into CLAYCROFT
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/25268740-b2ef-44c9-a07f-5cfedf861d49
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: CLAYCROFT
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8060019604761
+		- Longitude: -0.38037559930143605
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:07:04+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into LITTLE KNOTT 1
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/66b4c4da-7de8-4ee5-b7c0-2537a5690d5c
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: LITTLE KNOTT 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80880606313549
+		- Longitude: -0.3764090185116956
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.5
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:09:00+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into LITTLE KNOTT 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/356b0a18-48ec-4fa6-a561-64fa85c68ed0
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: LITTLE KNOTT 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8091001224714
+		- Longitude: -0.3778063433134214
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.5
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:00:11+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into SAWYERS 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/bf6355bb-f8d2-4075-9763-77d6829bdc4c
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: SAWYERS 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.816509527112395
+		- Longitude: -0.37430087572371495
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.5
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:06:42+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into SAWYERS 4
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/8559a602-a1b6-4c92-934b-ccad075021d5
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: SAWYERS 4
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.817404275175896
+		- Longitude: -0.37315840813378803
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0.5
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:06:23+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into NEW ZEALAND
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/c4018c47-3807-4e30-bdb5-47a549eb2260
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N
+Did not apply N to CS/760 or 24m surrounding area"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: NEW ZEALAND
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80992350486201
+		- Longitude: -0.3675345844335422
+	> location(asset--land)
+		- Name: 2020/R/RS/2009
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-10-22T14:26:10+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 296 kg/ha DoubleTop into PARKLANDS
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/1ff6ed60-0694-4305-ba02-9195d6d0001a
+
+Description: 
+	"296 Kg/ha Double Top gives 80 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: PARKLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80717035735208
+		- Longitude: -0.3657012805795821
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 296
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:08:42+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 125 kg/ha DoubleTop into SUMMERDELLS 1
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/68511f5f-0acc-48bf-a03a-fbd7648702c1
+
+Description: 
+	"125 Kg/ha Double Top gives 33.75 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: SUMMERDELLS 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.802847337179195
+		- Longitude: -0.3803377644020983
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 125
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:04:44+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 125 kg/ha DoubleTop into SUMMERDELLS 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/0f19b9d2-6288-4688-90df-06b90ca7262e
+
+Description: 
+	"125 Kg/ha Double Top gives 33.75 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: SUMMERDELLS 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.804318449044516
+		- Longitude: -0.37891682027406726
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 125
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:04:26+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 125 kg/ha DoubleTop into BONES CLOSE
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/e9cb7bf4-b3a3-4edc-8b33-084c9209d0cc
+
+Description: 
+	"125 Kg/ha Double Top gives 33.75 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: BONES CLOSE + DELL PIECE
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8073097470569
+		- Longitude: -0.37773413060133776
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 125
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: DoubleTop
+		- Description: "Ammonium Sulphate - (NH4)2SO4
+Ammonium Nitrate - NH4NO3"
+		- LastUpdate: 2020-06-29T10:03:13+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 319 kg/ha Nitram into WHITEHORSE 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/b0c82653-d387-444f-a199-6ddd8ed9face
+
+Description: 
+	"319 Kg/ha Double Top gives 110 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: WHITEHORSE 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80485330237396
+		- Longitude: -0.38351422385815936
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 319
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: Nitram
+		- Description: "34.5% N
+Nitric Acid Ammonia Salt - NH4.NO3"
+		- LastUpdate: 2020-07-03T15:49:44+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Fertiliser application: 319 kg/ha Nitram into SAWYERS 3
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/input/528786b0-51dc-4881-a3f9-c0c35dabd32b
+
+Description: 
+	"319 Kg/ha Double Top gives 110 Kg/ha N"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Fertiliser Application
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: fertilizer application
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_10795
+Agrovoc definition: Fertilzer application refers to the application of nutrients for the benefit of plant growth in general. It includes applications for agricultural and other purposes, including recreational and sporting facilities, public and private gardens and lawns.(en)"
+	> location(asset--land)
+		- Name: SAWYERS 3
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81524436922466
+		- Longitude: -0.37234848370642565
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 319
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1
+		- Unit: hours (h)
+	> quantity(quantity--material)
+		- Name: Nitram
+		- Description: "34.5% N
+Nitric Acid Ammonia Salt - NH4.NO3"
+		- LastUpdate: 2020-06-29T10:01:56+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kverneland Twin disc Fertiliser Spreader
+		- LastUpdate: 2021-05-10T09:43:23+00:00
+		- Description: "Note: Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+
+Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+

@@ -1,0 +1,1615 @@
+Action:
+	expt 2020/R/RAW/2027 located in WHITEHORSE 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/49cae1da-cf17-4de0-a340-f50a9f257889
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: WHITEHORSE 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80485330237396
+		- Longitude: -0.38351422385815936
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/RAW/2025  located in WHITEHORSE 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/5b8710a5-a27e-4260-a402-d823d323e045
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: WHITEHORSE 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80485330237396
+		- Longitude: -0.38351422385815936
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	Group 2019 WHITEHORSE 2 Barbados into expt 2020/R/RAW/2027
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/679fb708-d2f0-44fb-a2a9-1ee0c930f029
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> group(asset--group)
+	> asset(asset--plant)
+		- Name: 2020/R/RAW/2027 2019 WHITEHORSE 2 Barbados
+		- LastUpdate: 2022-05-17T14:21:33+00:00
+		- Type: Barbados
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	2019 WHITEHORSE 2 Barbados located in 2020/R/RAW/2027
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/651707cd-553b-4521-986c-35e1c9ba27da
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/RAW/2027
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: 2020/R/RAW/2027 2019 WHITEHORSE 2 Barbados
+		- LastUpdate: 2022-05-17T14:21:33+00:00
+		- Type: Barbados
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	Group 2019 WHITEHORSE 2 Barbados (2) into expt 2020/R/RAW/2025 
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/633c2773-3449-4814-bc40-96c956d8976d
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> group(asset--group)
+	> asset(asset--plant)
+		- Name: 2020/R/RAW/2025 2019 WHITEHORSE 2 Barbados
+		- LastUpdate: 2022-05-17T14:25:06+00:00
+		- Type: Barbados
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/RAW/2025  located in 2020/R/RAW/2025
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/385260be-65d7-4cd1-8497-ce4aec810231
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/RAW/2025
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/RAW/2027 located in 2020/R/RAW/2027
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/0a2bb8f3-b180-4bc9-9cf1-a2eed856c942
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/RAW/2027
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/CS/790 located in LITTLE HOOS
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/7ced9ae4-ecb5-4938-8a91-fcd7a6f72d4a
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: LITTLE HOOS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81145058778901
+		- Longitude: -0.37325968318954844
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	WW/ OSR Soil Cores (Soil Mineral N)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/a92408ad-8314-465b-84b8-b4bcfdd846cc
+
+Description: 
+	"Method: 90cm soil cores taken from OSR and WW plots. Four cores are taken per subplot from the yield strip closest to the centre line (7.5m). Where compost has been applied in any previous year, sub-plot samples are kept separate. Where compost has not been applied, samples from sub-plots are pooled to reduce costs. None of the ploughed winter wheat plots were sampled this year as they have not been drilled. Plots H02, H45 and H50 are also not sampled as these are failed plots. Samples are taken by driving over the plots using the golf buggy, introducing wheelings but very light ones. The sample points are not geo-referenced. Samples are send to NRM for mineral N, which is used to calculate total available N. The results are usually available within a week."
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Field Trial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: field experimentation
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_33990"
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+
+==============================================================================================
+
+Action:
+	Failed OSR Plot
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/7e2c4172-11c2-41f5-9717-60f55d95921a
+
+Description: 
+	"Plot: H50
+Notes: No establishment due to a combination of drilling method (Broadcasting), cabbage stem flea beetle damage and poor weather during autumn (drought)."
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Field Trial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: field experimentation
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_33990"
+	> file(file--file)
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+
+==============================================================================================
+
+Action:
+	Failed OSR plot
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/fc94e162-0a23-40b5-98fa-ae62a87a6dde
+
+Description: 
+	"Plot: H02
+Notes: After initially good plant establishment, heavy crop losses to cabbage stem flea beetle, pigeon damage and poor weather (autumn drought followed by heavy rain). "
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Field Trial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: field experimentation
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_33990"
+	> file(file--file)
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> owner(user--user)
+		- Name: Ian Shield
+		- Mail: ian.shield@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-25T12:41:50+00:00
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+
+==============================================================================================
+
+Action:
+	Failed OSR Plot
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/45891e97-159f-45f4-88cf-1c9649df0139
+
+Description: 
+	"Plot: H46
+Notes: Plant density too low for a viable crop. OSR out-competed by WW"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Field Trial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: field experimentation
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_33990"
+	> file(file--file)
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> owner(user--user)
+		- Name: Ian Shield
+		- Mail: ian.shield@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-25T12:41:50+00:00
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+
+==============================================================================================
+
+Action:
+	Group LSRE Field Beans into expt 2020/R/CS/790
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/f1219560-d3ef-4c29-a81f-773263e6478f
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> group(asset--group)
+	> asset(asset--plant)
+		- Name: LSRE RR Spring Beans
+		- LastUpdate: 2022-05-17T14:21:33+00:00
+		- Type: Field Beans Fuego
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+
+==============================================================================================
+
+Action:
+	LSRE Field Beans located in RRES LSRE Site
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/5dc1de99-fb18-4ebd-af7e-d48388a4b531
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> asset(asset--plant)
+		- Name: LSRE RR Spring Beans
+		- LastUpdate: 2022-05-17T14:21:33+00:00
+		- Type: Field Beans Fuego
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+
+==============================================================================================
+
+Action:
+	Group LSRE Spring Barley into expt 2020/R/CS/790
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/9ebcc3f3-82e7-4c31-ae48-a1cbcf9fb21d
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> group(asset--group)
+	> asset(asset--plant)
+		- Name: LSRE RR Spring Barley
+		- LastUpdate: 2022-05-17T14:21:33+00:00
+		- Type: Spring Barley (variety TBC)
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+
+==============================================================================================
+
+Action:
+	LSRE Spring Barley located in RRES LSRE Site
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/5bb77ad7-0136-49cd-ac84-f9573a54e254
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> asset(asset--plant)
+		- Name: LSRE RR Spring Barley
+		- LastUpdate: 2022-05-17T14:21:33+00:00
+		- Type: Spring Barley (variety TBC)
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+
+==============================================================================================
+
+Action:
+	Inversion WW still too wet to drill
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/3fd206b9-a473-400a-b884-e2b65be7001b
+
+Description: 
+	"Notes: ploughed winter wheat plots still too wet to drill"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> file(file--file)
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> owner(user--user)
+		- Name: Ian Shield
+		- Mail: ian.shield@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-25T12:41:50+00:00
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+
+==============================================================================================
+
+Action:
+	LSRE Crop walking
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/0b99b992-cced-4d66-873e-8009cb1e1278
+
+Description: 
+	"Plot 34: seed weevil present. Threshold is 1. Arrange insecticide
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2006 located in 2020/R/WW/2006
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/727921d8-0934-4058-91be-31cb59634eb7
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2006
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2011 located in 2020/R/WW/2011
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/07c82f36-74e4-404e-a655-f1d3e1a8cedd
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2011
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2026 located in 2020/R/WW/2026
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/abacc30d-72b6-4d26-a414-916064501eea
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2026
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2030 located in 2020/R/WW/2030
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/c23271c6-b9dd-44f8-ae65-378dad513855
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2030
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expts 2020/R/WW/2031+2034 located in 2020/R/WW/2031+2034
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/40e7d1e7-1584-45b7-932f-d987b3b0a79f
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2031+2034
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expts 2020/R/WW/2035+2046 located in 2020/R/WW/2035+2046
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/4776e315-cec8-40d6-80b2-56dd15cae163
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2035+2046
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2039 located in 2020/R/WW/2039
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/99ca0d0f-fe18-45bb-ac7a-7fc40fd32e7b
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2039
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2042 located in 2020/R/WW/2042
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/acac735d-6efa-4247-8d61-ad0c5123d5f3
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2042
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2045 located in 2020/R/WW/2045
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/0b362a3e-7d05-49a2-8004-2a4919815429
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2045
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2017 located in 2020/R/WW/2017
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/a6cd1e76-6031-4b38-9ef8-2c116b46b534
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2017
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2018/R/CM/1862 located in 2018/R/CM/1862
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/9c8d8a18-466b-4d6f-988d-6e00a6468305
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2018/R/CM/1862
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+		- Latitude: 51.805006013564295
+		- Longitude: -0.37670321295979253
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2019/R/CM/1960 located in 2019/R/CM/1960
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/1e5e2e93-dd66-433f-a6a5-5a8b8776e602
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2019/R/CM/1960
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+		- Latitude: 51.805595599681006
+		- Longitude: -0.3770065076197676
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2019/R/CM/1973 located in 2019/R/CM/1973
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/6f46ac8d-570a-4e3b-b4dc-57716e897941
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2019/R/CM/1973
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+		- Latitude: 51.804500813891416
+		- Longitude: -0.37624503235528434
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2019/R/WS/1965 located in 2019/R/WS/1965
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/6fcc163f-6b8a-46f9-89f4-18deed8b5243
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2019/R/WS/1965
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+		- Latitude: 51.805527673905566
+		- Longitude: -0.3759112234524601
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2015 located in 2020/R/WW/2015
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/4e886bb0-a3de-4608-b60c-fd3457872168
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2015
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2016 located in 2020/R/WW/2016
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/8961f3ee-1b56-4466-943e-a3dd90cfab59
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2016
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2018 located in 2020/R/WW/2018
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/8a82b8de-65b5-4960-93df-ad1d3bd0f219
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2018
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2029 located in 2020/R/WW/2029
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/9e76ad6b-8e1d-4135-8bde-b815a94588ac
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2029
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2032 located in 2020/R/WW/2032
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/64c09799-39e9-4f76-9e8e-206517b6f427
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2032
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2014 located in 2020/R/WW/2014
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/bdca5e68-9ec3-419e-b780-f23996aba2d0
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2014
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/RS/2003 located in 2020/R/RS/2003
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/06e57464-993a-4a16-bf85-927f93ebec37
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/RS/2003
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2019 located in 2020/R/WW/2019
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/7c9b90bf-f19e-4995-b68b-2dc551e2ea68
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2019
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WW/2022 located in 2020/R/WW/2022
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/af8bf5f9-644e-422d-ba52-58c1579ec6b2
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WW/2022
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/RS/2009 located in 2020/R/RS/2009
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/68c57deb-c0bd-4eeb-9e75-eb05261e2cbc
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/RS/2009
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/CM/2053 located in 2020/R/CM/2053
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/9e8fe795-fbaf-4f99-aa9b-34a005c134fb
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/CM/2053
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+		- Latitude: 51.80862927801621
+		- Longitude: -0.3748781963695359
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/CS/408 located in 2020/R/CS/408
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/86bb8bab-5e7c-4351-af7e-eb679f89d246
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/CS/408
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/CS/792 located in 2020/R/CS/792
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/e264136d-a55a-444e-89f9-f20b60c57868
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/CS/792
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/CS/10 located in 2020/R/CS/10
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/5167fc8e-5103-4e2e-8961-1a8b13b17e65
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/CS/10
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WS/2047 located in 2020/R/WS/2047
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/3dff1406-da92-4e11-a01e-4e4564d9f57e
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WS/2047
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WS/2049 located in 2020/R/WS/2049
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/1f1e11a4-adda-4e0f-85f4-48b7289ffba6
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WS/2049
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/WS/2055 located in 2020/R/WS/2055
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/e738c07d-7744-462c-b3ad-0ea918090ff1
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/WS/2055
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+
+Action:
+	expt 2020/R/CS/690 located in 2020/R/CS/690
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/observation/05ff8bae-9b01-421d-9051-d14d9a5ad5b4
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Observation
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "e.g. wild oat count, GM trial check, crop check, cancelled trial etc."
+	> location(asset--land)
+		- Name: 2020/R/CS/690
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--group)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+
+==============================================================================================
+

@@ -1,0 +1,1050 @@
+Action:
+	Drilling: Spring Wheat (Chilham)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/a604c582-8419-4cd4-a85d-1bc190d73597
+
+Informations:
+	> revision_user(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> image(file--file)
+	> asset(asset--plant)
+		- Name: 2022 AGDELL/HARWOODS: Spring Wheat (Chilham)
+		- LastUpdate: 2022-04-21T11:46:05+00:00
+		- Type: Chilham
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-04-12T13:13:40+00:00
+		- Value: 1.5
+		- Unit: hours
+	> quantity(quantity--material)
+		- Name: test
+		- LastUpdate: 2022-04-12T13:13:40+00:00
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-04-12T13:13:40+00:00
+		- Value: 0
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-04-12T13:13:40+00:00
+		- Value: 0
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-04-12T13:13:40+00:00
+		- Value: 350
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-04-12T13:13:40+00:00
+		- Value: 171
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-04-12T13:13:40+00:00
+		- Value: 49
+		- Unit: g
+	> quantity(quantity--standard)
+		- Measure: ratio
+		- LastUpdate: 2022-04-12T13:13:40+00:00
+		- Value: 350
+		- Unit: plants/m2
+	> quantity(quantity--standard)
+		- Measure: length
+		- LastUpdate: 2022-04-12T13:13:40+00:00
+		- Value: 5
+		- Unit: cm
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Simtech
+		- LastUpdate: 2021-03-11T14:07:32+00:00
+		- Description: "Year: 2021"
+	> equipment(asset--equipment)
+		- Name: JD6230
+		- LastUpdate: 2021-02-02T14:01:41+00:00
+		- Description: "Note: Yard Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Spring Oats (Elyann)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/5ff7907b-bf86-4664-84ae-2f33744eb0ba
+
+Description: 
+	"Seed dressings: Redigo Pro (15145)"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> uid(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> image(file--file)
+	> asset(asset--plant)
+		- Name: 2022 MEADOW: Spring Oats (Elyann)
+		- LastUpdate: 2022-04-21T11:47:57+00:00
+		- Type: Spring Oats
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-04-12T14:24:54+00:00
+		- Value: 6
+		- Unit: hours
+	> quantity(quantity--material)
+		- Name: na
+		- Description: "NA values where no product is applied"
+		- LastUpdate: 2022-04-12T14:24:54+00:00
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-04-12T14:24:54+00:00
+		- Value: 2437.1
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-04-12T14:24:54+00:00
+		- Value: 2441.7
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-04-12T14:24:54+00:00
+		- Value: 350
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-04-12T14:24:54+00:00
+		- Value: 140
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: length
+		- LastUpdate: 2022-04-12T14:24:54+00:00
+		- Value: 4
+		- Unit: cm
+	> owner(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: John Deere Drill 750A
+		- LastUpdate: 2021-06-17T11:23:10+00:00
+		- Description: "Model Year 2021"
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Spring Oats (Elyann)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/6b808202-29fb-4689-809c-3592f0d2d0ef
+
+Informations:
+	> revision_user(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> uid(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> image(file--file)
+	> asset(asset--plant)
+		- Name: 2022 MEADOW: Spring Oats (Elyann)
+		- LastUpdate: 2022-04-21T11:47:57+00:00
+		- Type: Spring Oats
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-04-12T14:26:45+00:00
+		- Value: 3
+		- Unit: hours
+	> quantity(quantity--material)
+		- Name: na
+		- Description: "NA values where no product is applied"
+		- LastUpdate: 2022-04-12T14:26:45+00:00
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-04-12T14:26:45+00:00
+		- Value: 2441.8
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-04-12T14:26:45+00:00
+		- Value: 2444.8
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-04-12T14:26:45+00:00
+		- Value: 350
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-04-12T14:26:45+00:00
+		- Value: 140
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: length
+		- LastUpdate: 2022-04-12T14:26:45+00:00
+		- Value: 4
+		- Unit: cm
+	> owner(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> equipment(asset--equipment)
+		- Name: John Deere Drill 750A
+		- LastUpdate: 2021-06-17T11:23:10+00:00
+		- Description: "Model Year 2021"
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Spring Oats (Elyann)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/3c2f190f-1311-408e-88c4-83a7a1e1f0f9
+
+Description: 
+	"Equipment Settings: depth setting 3"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> uid(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> image(file--file)
+	> location(asset--land)
+		- Name: Warren
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 52.018654610878194
+		- Longitude: -0.5912964845407593
+	> asset(asset--plant)
+		- Name: 2022 WARREN: Spring Oats (Elyann)
+		- LastUpdate: 2022-05-17T14:13:55+00:00
+		- Type: Spring Oats
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-05-05T11:01:19+00:00
+		- Value: 3
+		- Unit: hours
+	> quantity(quantity--material)
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:01:19+00:00
+		- Value: 2508.1
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:01:19+00:00
+		- Value: 2510.8
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:01:19+00:00
+		- Value: 350
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:01:19+00:00
+		- Value: 140
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: length
+		- LastUpdate: 2022-05-05T11:01:19+00:00
+		- Value: 3.2
+		- Unit: cm
+	> owner(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> equipment(asset--equipment)
+		- Name: John Deere Drill 750A
+		- LastUpdate: 2021-06-17T11:23:10+00:00
+		- Description: "Model Year 2021"
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Spring Oats (Elyann)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/cd8a5198-3cd0-4b64-a235-49daad1e8d6f
+
+Description: 
+	"Equipment Settings: depth setting 4"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> uid(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> image(file--file)
+	> asset(asset--plant)
+		- Name: 2022 PASTURES: Spring Oats (Elyann)
+		- LastUpdate: 2022-04-21T12:04:53+00:00
+		- Type: Spring Oats
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-05-05T11:07:29+00:00
+		- Value: 1.75
+		- Unit: hours
+	> quantity(quantity--material)
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:07:29+00:00
+		- Value: 2453.8
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:07:29+00:00
+		- Value: 2455.5
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:07:29+00:00
+		- Value: 350
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:07:29+00:00
+		- Value: 140
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: length
+		- LastUpdate: 2022-05-05T11:07:29+00:00
+		- Value: 4.5
+		- Unit: cm
+	> owner(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> equipment(asset--equipment)
+		- Name: John Deere Drill 750A
+		- LastUpdate: 2021-06-17T11:23:10+00:00
+		- Description: "Model Year 2021"
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Spring Barley (Diablo)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/2aa79e2f-9fad-48b9-b85a-18688ca2f56e
+
+Description: 
+	"Equipment Settings: depth setting 4"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> uid(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> image(file--file)
+	> asset(asset--plant)
+		- Name: 2022 WEST BARNFIELD 1/2: Spring Barley (Diablo)
+		- LastUpdate: 2022-05-17T14:13:17+00:00
+		- Type: Spring Barley
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-05-05T11:16:20+00:00
+		- Value: 2
+		- Unit: hours
+	> quantity(quantity--material)
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:16:20+00:00
+		- Value: 2456
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:16:20+00:00
+		- Value: 2458
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:16:20+00:00
+		- Value: 350
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:16:20+00:00
+		- Value: 165
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: length
+		- LastUpdate: 2022-05-05T11:16:20+00:00
+		- Value: 4.5
+		- Unit: cm
+	> owner(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> equipment(asset--equipment)
+		- Name: John Deere Drill 750A
+		- LastUpdate: 2021-06-17T11:23:10+00:00
+		- Description: "Model Year 2021"
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Spring Linseed (Bliss)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/8e5a9c98-3dd8-4df8-a01e-d3beb972d46c
+
+Description: 
+	"Equipment Settings: depth setting 4"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> uid(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> image(file--file)
+	> asset(asset--plant)
+		- Name: 2022 HIGHFIELD 4: Spring Linseed (Bliss)
+		- LastUpdate: 2022-05-17T14:05:53+00:00
+		- Type: Spring Linseed
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-05-05T11:19:52+00:00
+		- Value: 2
+		- Unit: hours
+	> quantity(quantity--material)
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:19:52+00:00
+		- Value: 2480.9
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:19:52+00:00
+		- Value: 2482.9
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:19:52+00:00
+		- Value: 750
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:19:52+00:00
+		- Value: 58.5
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> equipment(asset--equipment)
+		- Name: John Deere Drill 750A
+		- LastUpdate: 2021-06-17T11:23:10+00:00
+		- Description: "Model Year 2021"
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Spring Linseed (Bliss)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/63d14b6c-4ca4-488d-951b-cc1ce903c18f
+
+Description: 
+	"Equipment Settings: depth setting 2"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> uid(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> image(file--file)
+	> asset(asset--plant)
+		- Name: 2022 GREAT FIELD 4: Spring Linseed (Bliss)
+		- LastUpdate: 2022-04-21T12:02:00+00:00
+		- Type: Spring Linseed
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-05-05T11:23:07+00:00
+		- Value: 0.5
+		- Unit: hours
+	> quantity(quantity--material)
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:23:07+00:00
+		- Value: 2483
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:23:07+00:00
+		- Value: 2483.6
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:23:07+00:00
+		- Value: 750
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:23:07+00:00
+		- Value: 58.5
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> equipment(asset--equipment)
+		- Name: John Deere Drill 750A
+		- LastUpdate: 2021-06-17T11:23:10+00:00
+		- Description: "Model Year 2021"
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Spring Linseed (Bliss)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/c8ec46d8-e5c4-4a0a-9139-1285861545f7
+
+Description: 
+	"Equipment Settings: depth setting 2"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> uid(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> image(file--file)
+	> asset(asset--plant)
+		- Name: 2022 GARDEN PLOTS: Spring Linseed (Bliss)
+		- LastUpdate: 2022-04-21T11:54:26+00:00
+		- Type: Spring Linseed
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-05-05T11:26:19+00:00
+		- Value: 0.75
+		- Unit: hours
+	> quantity(quantity--material)
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:26:19+00:00
+		- Value: 2483.6
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:26:19+00:00
+		- Value: 2484.5
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:26:19+00:00
+		- Value: 750
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:26:19+00:00
+		- Value: 58.5
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> equipment(asset--equipment)
+		- Name: John Deere Drill 750A
+		- LastUpdate: 2021-06-17T11:23:10+00:00
+		- Description: "Model Year 2021"
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Spring Linseed (Bliss)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/921c53a7-1d5b-4a45-becf-8aba4c09d4cf
+
+Description: 
+	"Equipment Settings: depth setting 2"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> uid(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> image(file--file)
+	> asset(asset--plant)
+		- Name: 2022 SCOUT: Spring Linseed (Bliss)
+		- LastUpdate: 2022-05-17T14:07:05+00:00
+		- Type: Spring Linseed
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-05-05T11:28:45+00:00
+		- Value: 2
+		- Unit: hours
+	> quantity(quantity--material)
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:28:45+00:00
+		- Value: 2485.7
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T11:28:45+00:00
+		- Value: 2487.6
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:28:45+00:00
+		- Value: 750
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T11:28:45+00:00
+		- Value: 58.5
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> equipment(asset--equipment)
+		- Name: John Deere Drill 750A
+		- LastUpdate: 2021-06-17T11:23:10+00:00
+		- Description: "Model Year 2021"
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Spring Linseed (Bliss)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/c4caa0bd-85b7-433d-a15c-de2ecba370c0
+
+Description: 
+	"Equipment Settings: depth setting 2"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> uid(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> image(file--file)
+	> asset(asset--plant)
+		- Name: 2022 NEW ZEALAND: Spring Linseed (Bliss)
+		- LastUpdate: 2022-04-21T12:02:43+00:00
+		- Type: Spring Linseed
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-05-05T12:07:10+00:00
+		- Value: 3.25
+		- Unit: hours
+	> quantity(quantity--material)
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T12:07:10+00:00
+		- Value: 2498.7
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-05T12:07:10+00:00
+		- Value: 2501.8
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T12:07:10+00:00
+		- Value: 750
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-05T12:07:10+00:00
+		- Value: 58.5
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> equipment(asset--equipment)
+		- Name: John Deere Drill 750A
+		- LastUpdate: 2021-06-17T11:23:10+00:00
+		- Description: "Model Year 2021"
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Spring Barley (Diablo)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/090aed31-18fb-4ceb-a07f-591762dfd98f
+
+Informations:
+	> revision_user(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> uid(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> image(file--file)
+	> asset(asset--plant)
+		- Name: 2022 SUMMERDELLS 1/2 & WHITE HORSE 1: Spring Barley (Diablo)
+		- LastUpdate: 2022-05-17T14:12:18+00:00
+		- Type: Spring Barley
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-05-06T06:47:12+00:00
+		- Value: 7.5
+		- Unit: hours
+	> quantity(quantity--material)
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-06T06:47:12+00:00
+		- Value: 2458.8
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-06T06:47:12+00:00
+		- Value: 2466.3
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-06T06:47:12+00:00
+		- Value: 350
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-06T06:47:12+00:00
+		- Value: 165
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> equipment(asset--equipment)
+		- Name: John Deere Drill 750A
+		- LastUpdate: 2021-06-17T11:23:10+00:00
+		- Description: "Model Year 2021"
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Field Peas (Bluetime)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/a37200ab-8b10-47f2-b97b-e101ecdd4dd9
+
+Informations:
+	> revision_user(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> uid(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> image(file--file)
+	> location(asset--land)
+		- Name: LITTLE KNOTT 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80880606313549
+		- Longitude: -0.3764090185116956
+	> asset(asset--plant)
+		- Name: 2022 LITTLE KNOTT 1 & 2: Field Peas (Bluetime)
+		- LastUpdate: 2022-05-17T14:10:31+00:00
+		- Type: Bluetime
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-05-06T06:56:53+00:00
+		- Value: 1.75
+		- Unit: hours
+	> quantity(quantity--material)
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-06T06:56:53+00:00
+		- Value: 2503.1
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-06T06:56:53+00:00
+		- Value: 2504.9
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-06T06:56:53+00:00
+		- Value: 90
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-06T06:56:53+00:00
+		- Value: 271
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Matthew Parr
+		- Mail: matthew.parr@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-26T11:18:11+00:00
+	> equipment(asset--equipment)
+		- Name: John Deere Drill 750A
+		- LastUpdate: 2021-06-17T11:23:10+00:00
+		- Description: "Model Year 2021"
+	> equipment(asset--equipment)
+		- Name: JD6145R
+		- LastUpdate: 2021-02-02T14:00:53+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+
+Action:
+	Drilling: Winter Wheat (Crusoe)
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/drilling/631ed3e6-0170-4265-9cab-fd6c012cc823
+
+Description: 
+	"Seed dressings: Beret Gold (16430)"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> image(file--file)
+	> asset(asset--plant)
+		- Name: 2021 2022/R/CS/738 (Fosters)
+		- LastUpdate: 2022-05-24T15:11:40+00:00
+		- Type: Winter Wheat
+	> asset(asset--plant)
+		- Name: 2021 FOSTERS: Winter Wheat (Crusoe)
+		- LastUpdate: 2022-05-24T15:17:36+00:00
+		- Type: Winter Wheat
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-05-24T15:27:46+00:00
+		- Value: 4
+		- Unit: hours
+	> quantity(quantity--material)
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-24T15:27:46+00:00
+		- Value: 0
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-05-24T15:27:46+00:00
+		- Value: 0
+		- Unit: hours
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-24T15:27:46+00:00
+		- Value: 350
+		- Unit: seeds/m2
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-05-24T15:27:46+00:00
+		- Value: 187
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-05-24T15:27:46+00:00
+		- Value: 53.5
+		- Unit: g
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> plant_type(taxonomy_term--plant_type)
+
+==============================================================================================
+

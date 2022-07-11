@@ -1,0 +1,3034 @@
+Action:
+	Grass Plots 1st Cut 2020
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/6a9838ee-6847-4e00-82b0-054785e22d4b
+
+Description: 
+	"Started
+Plots 3, 8, 19, 21, 29, 30"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 32
+		- Unit: strips cut
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> owner(user--user)
+		- Name: Ben Flannery
+		- Mail: ben.flannery@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-23T09:33:38+00:00
+	> equipment(asset--equipment)
+		- Name: Tym T503
+		- LastUpdate: 2021-02-02T14:22:59+00:00
+		- Description: "Note: Small Light Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Wilder Grass Box
+		- LastUpdate: 2020-11-26T16:39:02+00:00
+		- Description: "Note: Used for grass weights 
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Grass Plots 1st Cut 2020
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/75cd5b0c-746a-4ba5-ac75-2cd62f44c582
+
+Description: 
+	"Finished
+Plots 45, 56"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 32
+		- Unit: strips cut
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> owner(user--user)
+		- Name: Ben Flannery
+		- Mail: ben.flannery@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-23T09:33:38+00:00
+	> equipment(asset--equipment)
+		- Name: Tym T503
+		- LastUpdate: 2021-02-02T14:22:59+00:00
+		- Description: "Note: Small Light Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Wilder Grass Box
+		- LastUpdate: 2020-11-26T16:39:02+00:00
+		- Description: "Note: Used for grass weights 
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Park Grass 1st Cut 2020
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/bd130cbf-6060-4ac3-8992-a42a5995b743
+
+Description: 
+	"Harvested Plots 3d to 17a"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/PG/5
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> owner(user--user)
+		- Name: Ben Flannery
+		- Mail: ben.flannery@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-23T09:33:38+00:00
+	> equipment(asset--equipment)
+		- Name: Wilder Grass Box
+		- LastUpdate: 2020-11-26T16:39:02+00:00
+		- Description: "Note: Used for grass weights 
+
+Agrovoc term: 
+Agrovoc url: "
+	> equipment(asset--equipment)
+		- Name: MF3070
+		- LastUpdate: 2021-02-02T14:17:15+00:00
+		- Description: "Note: Hedge Cutting Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Park Grass 1st Cut 2020
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/4aec71f0-81cd-491d-a20f-7f4e2c8b53d3
+
+Description: 
+	"Harvested plots 20/3 to 4/1a"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/PG/5
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> owner(user--user)
+		- Name: Ben Flannery
+		- Mail: ben.flannery@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-23T09:33:38+00:00
+	> equipment(asset--equipment)
+		- Name: MF3070
+		- LastUpdate: 2021-02-02T14:17:15+00:00
+		- Description: "Note: Hedge Cutting Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Wilder Grass Box
+		- LastUpdate: 2020-11-26T16:39:02+00:00
+		- Description: "Note: Used for grass weights 
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Grass Plots 1st Cut 2020
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/33224871-ad98-43b5-b423-69ff5b268079
+
+Description: 
+	"Plots 02, 06, 09, 10, 13, 17, 21, 23, 26, 30, 31"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/CS/767
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 11
+		- Unit: plots
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> owner(user--user)
+		- Name: Ben Flannery
+		- Mail: ben.flannery@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-23T09:33:38+00:00
+	> equipment(asset--equipment)
+		- Name: Tym T503
+		- LastUpdate: 2021-02-02T14:22:59+00:00
+		- Description: "Note: Small Light Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Wilder Grass Box
+		- LastUpdate: 2020-11-26T16:39:02+00:00
+		- Description: "Note: Used for grass weights 
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Grass Plots 1st Cut 2020
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/94815282-97af-4c64-856b-329ffb0a29aa
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/W/RN/12
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 4
+		- Unit: plots
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> owner(user--user)
+		- Name: Ben Flannery
+		- Mail: ben.flannery@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-23T09:33:38+00:00
+	> equipment(asset--equipment)
+		- Name: JD6620
+		- LastUpdate: 2020-11-26T11:19:17+00:00
+		- Description: "Note: Woburn tractor 
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Wilder Grass Box
+		- LastUpdate: 2020-11-26T16:39:02+00:00
+		- Description: "Note: Used for grass weights 
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Grass Plots 1st Cut 2020
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/2b0666de-a392-4e5f-8500-75f45e8215fa
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/W/RN/3
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 24
+		- Unit: plots
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> owner(user--user)
+		- Name: Ben Flannery
+		- Mail: ben.flannery@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-23T09:33:38+00:00
+	> equipment(asset--equipment)
+		- Name: JD6620
+		- LastUpdate: 2020-11-26T11:19:17+00:00
+		- Description: "Note: Woburn tractor 
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Wilder Grass Box
+		- LastUpdate: 2020-11-26T16:39:02+00:00
+		- Description: "Note: Used for grass weights 
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Grass Plots 2nd Cut 2020
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/45b24f97-94c3-4570-81af-86d79221bf9f
+
+Description: 
+	"Grass yields 2nd cut, 1st year grass plots only, 2 cuts per sub plot, plots 8, 29, 45, 56."
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 16
+		- Unit: cuts
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> owner(user--user)
+		- Name: Aislinn Pearson
+		- Mail: aislinn.pearson@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-13T08:03:49+00:00
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> owner(user--user)
+		- Name: Ben Flannery
+		- Mail: ben.flannery@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-23T09:33:38+00:00
+	> equipment(asset--equipment)
+		- Name: Tym T503
+		- LastUpdate: 2021-02-02T14:22:59+00:00
+		- Description: "Note: Small Light Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Wilder Grass Box
+		- LastUpdate: 2020-11-26T16:39:02+00:00
+		- Description: "Note: Used for grass weights 
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	OSR plots 
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/cb00ef4b-dfe6-4bd9-844f-3e8f11f404b0
+
+Description: 
+	"Plots 22, 23, 27, 34, 36. Two cuts each sub plot
+H22A1: looked on the combine screen as though it had already been harvested but weight said 0.00"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 20
+		- Unit: samples
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-85 2m cut
+		- LastUpdate: 2021-02-02T14:08:04+00:00
+		- Description: "Note: Plot combine with 2m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/2111fb12-0899-4285-b222-473022eadcd5
+
+Description: 
+	"Wheat
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: BYLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80353385082231
+		- Longitude: -0.3971380089140847
+	> location(asset--land)
+		- Name: MEADOW
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80286861647915
+		- Longitude: -0.39441997654759614
+	> asset(asset--plant)
+		- Name: Planting: Graham  BYLANDS Commercial
+		- LastUpdate: 2020-07-07T10:37:49+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 29580
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/57fe09f0-2a8d-48cd-aca2-af073590f2dd
+
+Description: 
+	"Wheat"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: GEESCROFT
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.802927937551985
+		- Longitude: -0.36161359881134264
+	> asset(asset--plant)
+		- Name: Planting: Siskin  GEESCROFT Commercial
+		- LastUpdate: 2020-07-07T10:37:33+00:00
+		- Type: Siskin
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 8430
+		- Unit: kg
+	> quantity(quantity--standard)
+		- Measure: None
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 6.3
+		- Unit: T/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/438c474e-c77c-458f-88e8-2cf73674df85
+
+Description: 
+	"1st and 2nd W Wheat"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: FOSTERS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81294749990518
+		- Longitude: -0.3796057228652772
+	> asset(asset--plant)
+		- Name: 2020 FOSTERS Crusoe
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Crusoe
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 17390
+		- Unit: kg
+	> quantity(quantity--standard)
+		- Measure: None
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5.2
+		- Unit: T/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/14bd1f15-3c6e-4337-8c63-267ee5faed82
+
+Description: 
+	"W Wheat"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: GREAT KNOTT 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81228697359023
+		- Longitude: -0.3823328476587994
+	> asset(asset--plant)
+		- Name: Planting: Siskin  GREAT KNOTT 1 Commercial
+		- LastUpdate: 2020-07-07T10:37:30+00:00
+		- Type: Siskin
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 28800
+		- Unit: kg
+	> quantity(quantity--standard)
+		- Measure: None
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 6.9
+		- Unit: T/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/9e674d10-14b6-423c-8e29-cd3f6e26b3c4
+
+Description: 
+	"W Wheat"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: WEBBS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8041005399078
+		- Longitude: -0.38739965405785487
+	> asset(asset--plant)
+		- Name: Planting: Siskin  WEBBS Commercial
+		- LastUpdate: 2020-07-07T10:35:08+00:00
+		- Type: Siskin
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 20770
+		- Unit: kg
+	> quantity(quantity--standard)
+		- Measure: None
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 7.2
+		- Unit: T/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/16df0472-cb59-438d-a07b-acfd0737c339
+
+Description: 
+	"W Wheat"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: DRAPERS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80633667986535
+		- Longitude: -0.3871134006758104
+	> location(asset--land)
+		- Name: 2020/R/RS/2010
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: 2019 DRAPERS Siskin
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Siskin
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 26280
+		- Unit: kg
+	> quantity(quantity--standard)
+		- Measure: None
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5.5
+		- Unit: T/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/80c45309-1359-48f6-8b68-d906923e7d4f
+
+Description: 
+	"W Barley
+Started
+
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: GREAT KNOTT 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81013325005812
+		- Longitude: -0.3817490177058852
+	> location(asset--land)
+		- Name: GREAT KNOTT 3
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8111140605774
+		- Longitude: -0.3799739065520942
+	> asset(asset--plant)
+		- Name: 2019 GREAT KNOTT 2 KWS Orwell
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: KWS Orwell
+	> asset(asset--plant)
+		- Name: 2019 GREAT KNOTT 3 KWS Orwell
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: KWS Orwell
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 17200
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/1887e61e-8d5e-4c7b-a813-bcbba2528261
+
+Description: 
+	"W Barley
+Finished
+
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: GREAT KNOTT 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81013325005812
+		- Longitude: -0.3817490177058852
+	> location(asset--land)
+		- Name: GREAT KNOTT 3
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8111140605774
+		- Longitude: -0.3799739065520942
+	> asset(asset--plant)
+		- Name: 2019 GREAT KNOTT 2 KWS Orwell
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: KWS Orwell
+	> asset(asset--plant)
+		- Name: 2019 GREAT KNOTT 3 KWS Orwell
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: KWS Orwell
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 35280
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/e2887e1a-b315-4acc-9bd6-a97ce20d4874
+
+Description: 
+	"W Barley"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: HOOS FIELD - direct drilled section 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: 2019 HOOSFIELD Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 6020
+		- Unit: kg
+	> quantity(quantity--standard)
+		- Measure: None
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 4.2
+		- Unit: T/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	OSR - LSRE
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/fe86eea5-1527-4000-9d8e-d45db4d3c18e
+
+Description: 
+	"OSR"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 230
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/79b01fcc-251a-4211-830a-bf5bae58c445
+
+Description: 
+	"OSR"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: GREAT HARPENDEN 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.812179531353685
+		- Longitude: -0.36887305342399707
+	> asset(asset--plant)
+		- Name: 2019 GREAT HARPENDEN 2 Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> asset(asset--plant)
+		- Name: 2019 GREAT HARPENDEN 2 DK Exstar
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: DK Exstar
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1850
+		- Unit: kg
+	> quantity(quantity--standard)
+		- Measure: None
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 597
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/6ca7d1f3-fb0e-4ce5-88f1-e988940ae512
+
+Description: 
+	"OSR"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: LONG HOOS 5
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81405414724013
+		- Longitude: -0.3755947847033751
+	> location(asset--land)
+		- Name: LONG HOOS 6/7
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.814254654412515
+		- Longitude: -0.3766778573285136
+	> asset(asset--plant)
+		- Name: 2019 LONG HOOS 5 Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 4970
+		- Unit: kg
+	> quantity(quantity--standard)
+		- Measure: None
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1.6
+		- Unit: T/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/e2755ffd-a099-4437-b7c8-0233b809e285
+
+Description: 
+	"OSR"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: WHITEHORSE 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.803162159177305
+		- Longitude: -0.38467232622278147
+	> asset(asset--plant)
+		- Name: 2019 WHITEHORSE 1 Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 5230
+		- Unit: kg
+	> quantity(quantity--standard)
+		- Measure: None
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1.57
+		- Unit: T/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/ee69efcf-c544-4df9-b14a-f3673509e534
+
+Description: 
+	"OSR"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: GREAT FIELD 1/2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80607397864791
+		- Longitude: -0.36263658469046284
+	> location(asset--land)
+		- Name: 2020/R/RAW/2037
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: 2019 GREAT FIELD 1/2 Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> asset(asset--plant)
+		- Name: 2019 GREAT FIELD 1/2 DK Exstar
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: DK Exstar
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 12750
+		- Unit: kg
+	> quantity(quantity--standard)
+		- Measure: None
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 2.19
+		- Unit: T/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/1532f840-8800-4910-b267-79f65d3832fe
+
+Description: 
+	"Wheat
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: BLACKHORSE
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80581286853318
+		- Longitude: -0.39642985183800394
+	> asset(asset--plant)
+		- Name: 2020 BLACKHORSE Siskin
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Siskin
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 10580
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Harvested all plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/cf0916f4-7e02-47f9-a544-773d53eb138b
+
+Description: 
+	"Start time: 3:15 - Finish time: 7:25 (plots 106 & 107 missing due to mixing) 
+ "
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: 2020/R/WW/2015
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: winter wheat MEADOW WW/2015
+		- LastUpdate: 2020-07-07T12:05:35+00:00
+		- Type: Winter Wheat
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 18
+		- Unit: rows
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-65 1.5m cut
+		- LastUpdate: 2021-02-02T14:06:14+00:00
+		- Description: "Note: Plot combine with 1.5m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Harvested all plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/43c18d15-b83a-46da-b764-35de1e46e0d2
+
+Description: 
+	"Start time: 10:30 - Finish time: 4:00"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: 2020/R/WW/2015
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: winter wheat MEADOW WW/2015
+		- LastUpdate: 2020-07-07T12:05:35+00:00
+		- Type: Winter Wheat
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 18
+		- Unit: rows
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-65 1.5m cut
+		- LastUpdate: 2021-02-02T14:06:14+00:00
+		- Description: "Note: Plot combine with 1.5m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Straw Weights
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/a20120f6-73f2-4c73-90ba-1172d55d99b8
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/CS/778
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 24
+		- Unit: plots
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 80
+		- Unit: min
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> owner(user--user)
+		- Name: Ben Flannery
+		- Mail: ben.flannery@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-23T09:33:38+00:00
+	> equipment(asset--equipment)
+		- Name: Tym T503
+		- LastUpdate: 2021-02-02T14:22:59+00:00
+		- Description: "Note: Small Light Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: New Holland Baler
+		- LastUpdate: 2021-02-02T14:18:48+00:00
+		- Description: "Note: Straw weights baler
+
+Agrovoc term: balers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_793"
+
+==============================================================================================
+
+Action:
+	Straw Weights
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/8530c2e1-59e5-430e-909d-eb951c2dc804
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/CS/760
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 24
+		- Unit: plots
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 80
+		- Unit: min
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> owner(user--user)
+		- Name: Ben Flannery
+		- Mail: ben.flannery@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-23T09:33:38+00:00
+	> equipment(asset--equipment)
+		- Name: New Holland Baler
+		- LastUpdate: 2021-02-02T14:18:48+00:00
+		- Description: "Note: Straw weights baler
+
+Agrovoc term: balers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_793"
+	> equipment(asset--equipment)
+		- Name: Tym T503
+		- LastUpdate: 2021-02-02T14:22:59+00:00
+		- Description: "Note: Small Light Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Straw Weights
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/bbef9cbe-0ac7-4d3c-9c3d-7a6b1c68f48f
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/CS/789
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 24
+		- Unit: plots
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 80
+		- Unit: min
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> owner(user--user)
+		- Name: Ben Flannery
+		- Mail: ben.flannery@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-23T09:33:38+00:00
+	> equipment(asset--equipment)
+		- Name: New Holland Baler
+		- LastUpdate: 2021-02-02T14:18:48+00:00
+		- Description: "Note: Straw weights baler
+
+Agrovoc term: balers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_793"
+	> equipment(asset--equipment)
+		- Name: Tym T503
+		- LastUpdate: 2021-02-02T14:22:59+00:00
+		- Description: "Note: Small Light Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Straw Weights
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/b88089b8-15b7-45e6-ba6b-69f3029745be
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/CS/773
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 24
+		- Unit: plots
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 80
+		- Unit: min
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> owner(user--user)
+		- Name: Ben Flannery
+		- Mail: ben.flannery@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-23T09:33:38+00:00
+	> equipment(asset--equipment)
+		- Name: New Holland Baler
+		- LastUpdate: 2021-02-02T14:18:48+00:00
+		- Description: "Note: Straw weights baler
+
+Agrovoc term: balers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_793"
+	> equipment(asset--equipment)
+		- Name: Tym T503
+		- LastUpdate: 2021-02-02T14:22:59+00:00
+		- Description: "Note: Small Light Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/7bffb162-e111-4f4f-857a-09b019453ab9
+
+Description: 
+	"Wheat"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: BYLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80353385082231
+		- Longitude: -0.3971380089140847
+	> location(asset--land)
+		- Name: MEADOW
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80286861647915
+		- Longitude: -0.39441997654759614
+	> asset(asset--plant)
+		- Name: Planting: Graham  BYLANDS Commercial
+		- LastUpdate: 2020-07-07T10:37:49+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1310
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/23c88802-e393-410d-beb4-58de668e5e54
+
+Description: 
+	"Wheat"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: BYLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80353385082231
+		- Longitude: -0.3971380089140847
+	> location(asset--land)
+		- Name: MEADOW
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80286861647915
+		- Longitude: -0.39441997654759614
+	> asset(asset--plant)
+		- Name: Planting: Graham  BYLANDS Commercial
+		- LastUpdate: 2020-07-07T10:37:49+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 14650
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/c2bf3768-6a9d-43be-bca9-815381d99b1e
+
+Description: 
+	"Wheat"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: BLACKHORSE
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80581286853318
+		- Longitude: -0.39642985183800394
+	> asset(asset--plant)
+		- Name: 2020 BLACKHORSE Siskin
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Siskin
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 65590
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/41c5e6d3-f872-4c39-a9ec-faa27ee83493
+
+Description: 
+	"Wheat"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: OSIER
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80422333302656
+		- Longitude: -0.3914415517229353
+	> asset(asset--plant)
+		- Name: Planting: Graham  OSIER Commercial
+		- LastUpdate: 2020-07-07T10:37:40+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 21630
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/575a78f7-db98-4aa8-ba91-ea7e4d76b69b
+
+Description: 
+	"Wheat"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: OSIER
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80422333302656
+		- Longitude: -0.3914415517229353
+	> asset(asset--plant)
+		- Name: Planting: Graham  OSIER Commercial
+		- LastUpdate: 2020-07-07T10:37:40+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1790
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/d3a86e45-769c-4aea-a3f4-ad4aaad25e99
+
+Description: 
+	"Wheat"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: SCOUT
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80810160460374
+		- Longitude: -0.39316101669031106
+	> asset(asset--plant)
+		- Name: Planting: Graham  SCOUT Commercial
+		- LastUpdate: 2020-07-07T10:38:59+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 15330
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/db44cec3-1b26-4f09-86dc-fbe3f9a14404
+
+Description: 
+	"Spring Barley"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: HIGHFIELD 4
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80161050740583
+		- Longitude: -0.3634833472772741
+	> asset(asset--plant)
+		- Name: Planting: Diablo  HIGHFIELD 4 Commercial
+		- LastUpdate: 2020-07-07T10:50:38+00:00
+		- Type: Diablo
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 18220
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/8fa77f88-98f7-41a2-9dcf-35932a40635f
+
+Description: 
+	"Spring Barley"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: HIGHFIELD 5/6
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.802782584447925
+		- Longitude: -0.3660373729580784
+	> asset(asset--plant)
+		- Name: Planting: Diablo  HIGHFIELD 5/6 Commercial
+		- LastUpdate: 2020-07-07T10:50:54+00:00
+		- Type: Diablo
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 26290
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/36c6aa54-7f9a-4fa4-9713-53ced92dd12a
+
+Description: 
+	"Wheat"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 4450
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Commercial Crop
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/7aaa5c21-e524-4703-93ef-7274503960c8
+
+Description: 
+	"Spring Barley"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: WHITEHORSE 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80485330237396
+		- Longitude: -0.38351422385815936
+	> asset(asset--plant)
+		- Name: Planting: Diablo  WHITEHORSE 2 Commercial
+		- LastUpdate: 2020-07-07T10:55:10+00:00
+		- Type: Diablo
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 12050
+		- Unit: kg
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Claas Tucano 430
+		- LastUpdate: 2021-02-02T14:04:41+00:00
+		- Description: "Note: Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Harvested all plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/e1da9444-23a2-4ed3-aba0-e4d6fbbcbf1d
+
+Description: 
+	"No problems during harvest. Harvest area: Width -1.8m Length - Measured by Andrew Riche.
+Took 1.5 hours to harvest"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/WW/2045
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: winter wheat OSIER WW/2045
+		- LastUpdate: 2020-07-07T12:05:59+00:00
+		- Type: Winter Wheat
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-85 2m cut
+		- LastUpdate: 2021-02-02T14:08:04+00:00
+		- Description: "Note: Plot combine with 2m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Harvested all plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/9e8c8fc4-aead-4ccc-b39e-4aac9eb4801a
+
+Description: 
+	"No problems during harvest. Harvest area: Width -1.8m Length - 9m
+Took 1.5 hours to harvest"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/WW/2026
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: winter wheat OSIER WW/2026
+		- LastUpdate: 2020-07-07T12:06:03+00:00
+		- Type: Winter Wheat
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-85 2m cut
+		- LastUpdate: 2021-02-02T14:08:04+00:00
+		- Description: "Note: Plot combine with 2m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Harvested WW/2035 plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/8f652a2c-b446-4c57-b871-8e106362a928
+
+Description: 
+	" No problems during harvest. Harvest area: Width -1.8m Length - 9m
+Took 1 hour to harvest"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: 2020/R/WW/2035+2046
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: winter wheat OSIER WW/2035+2046
+		- LastUpdate: 2020-07-07T12:06:13+00:00
+		- Type: Winter Wheat
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-85 2m cut
+		- LastUpdate: 2021-02-02T14:08:04+00:00
+		- Description: "Note: Plot combine with 2m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Harvested WW/2046 plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/c0508559-2361-4b1d-baa1-704035d5a960
+
+Description: 
+	"No problems during harvest. Harvest area: Width -1.8m Length - 9m. Plots harvested for seed only. Yields data not required
+Took 3 hours to harvest. Had a short break due to rain at 15.30. Restarted at 17.30 to cut last 4 plots."
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> location(asset--land)
+		- Name: 2020/R/WW/2035+2046
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: winter wheat OSIER WW/2035+2046
+		- LastUpdate: 2020-07-07T12:06:13+00:00
+		- Type: Winter Wheat
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-85 2m cut
+		- LastUpdate: 2021-02-02T14:08:04+00:00
+		- Description: "Note: Plot combine with 2m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Harvested all plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/ffad50aa-a2aa-4c42-918a-7474c13c2d83
+
+Description: 
+	"No problems during harvest. Harvest area: Length - 7.042m (2m of plot mown off before harvest due to damage from soil sampling) Width - 1.8m. Took 7 hours to harvest."
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/WW/2014
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: winter wheat BYLANDS WW/2014
+		- LastUpdate: 2020-07-07T12:03:52+00:00
+		- Type: Winter Wheat
+	> asset(asset--plant)
+		- Name: Planting: winter wheat BYLANDS WW/2014
+		- LastUpdate: 2020-07-07T12:05:10+00:00
+		- Type: Winter Wheat
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-85 2m cut
+		- LastUpdate: 2021-02-02T14:08:04+00:00
+		- Description: "Note: Plot combine with 2m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Harvested all plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/be5c640c-c1ce-400a-941b-90dbf31c94ef
+
+Description: 
+	"Started in NE corner on plot 1641 finishing on plot 1223.
+See attached file for list of dead plots "
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/WW/2031+2034
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: winter wheat OSIER WW/2031+2034
+		- LastUpdate: 2020-07-07T12:05:50+00:00
+		- Type: Winter Wheat
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 216
+		- Unit: plots
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-65 1.5m cut
+		- LastUpdate: 2021-02-02T14:06:14+00:00
+		- Description: "Note: Plot combine with 1.5m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Harvested all plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/b514d85f-b321-4aef-923f-ab3e862f92df
+
+Description: 
+	"Started on plot 1 and finished on plot 160 
+See attached file for list of dead plots "
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/WW/2031+2034
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: winter wheat OSIER WW/2031+2034
+		- LastUpdate: 2020-07-07T12:05:50+00:00
+		- Type: Winter Wheat
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 160
+		- Unit: plots
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-65 1.5m cut
+		- LastUpdate: 2021-02-02T14:06:14+00:00
+		- Description: "Note: Plot combine with 1.5m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Harvested all plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/dd3f2b27-5ed6-415c-99e0-fa33fd0e4b69
+
+Description: 
+	"Started on plot 161 to 480 then harvested sideward 5 rows starting on plot 495 to 706 (see plan for details)
+see attached file for list of dead plots   "
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/WW/2031+2034
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: winter wheat OSIER WW/2031+2034
+		- LastUpdate: 2020-07-07T12:05:50+00:00
+		- Type: Winter Wheat
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 392
+		- Unit: plots
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-65 1.5m cut
+		- LastUpdate: 2021-02-02T14:06:14+00:00
+		- Description: "Note: Plot combine with 1.5m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Harvested all plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/a289cdba-93cf-461f-bb69-598602169cd4
+
+Description: 
+	"Started on plot 961 finished on plot 1423
+see atttached file for list of dead plots "
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/WW/2031+2034
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: winter wheat OSIER WW/2031+2034
+		- LastUpdate: 2020-07-07T12:05:50+00:00
+		- Type: Winter Wheat
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 222
+		- Unit: plots
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-65 1.5m cut
+		- LastUpdate: 2021-02-02T14:06:14+00:00
+		- Description: "Note: Plot combine with 1.5m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+
+Action:
+	Harvested all plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/harvest/ea6eedaf-4c6e-4801-b212-fac16f3c1846
+
+Description: 
+	"Started on plot 1441 finished on plot 1663
+see attached file for list of dead plots "
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Harvesting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: harvesting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_3500"
+	> file(file--file)
+	> file(file--file)
+	> location(asset--land)
+		- Name: 2020/R/WW/2031+2034
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: winter wheat OSIER WW/2031+2034
+		- LastUpdate: 2020-07-07T12:05:50+00:00
+		- Type: Winter Wheat
+	> quantity(quantity--standard)
+		- Measure: count
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 108
+		- Unit: plots
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> equipment(asset--equipment)
+		- Name: Haldrup C-65 1.5m cut
+		- LastUpdate: 2021-02-02T14:06:14+00:00
+		- Description: "Note: Plot combine with 1.5m header width
+
+Agrovoc term: combine harvesters
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1775"
+
+==============================================================================================
+

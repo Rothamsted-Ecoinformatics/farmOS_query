@@ -1,0 +1,3286 @@
+Action:
+	Drilling: DK ExStar in SAWYERS 1 CS715
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/822e30cb-19e0-4bde-9873-4a06034d2feb
+
+Description: 
+	"Dressing: Radiate
+North end only "
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: 2020/R/CS/715 - Oat plots
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/CS/715 - Oat surrounds
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: 2019 SAWYERS 1 CS715 DK Exstar
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: DK Exstar
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 60
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: DK ExStar in LONG HOOS 6/7
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/1c22e213-b102-4890-8749-3ccc30e10a95
+
+Description: 
+	"Seed dressing: Radiate
+This first drilling failed due to damage from slugs and so field was later re-drilled"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: LONG HOOS 6/7
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.814254654412515
+		- Longitude: -0.3766778573285136
+	> asset(asset--plant)
+		- Name: 2019 LONG HOOS 6/7 DK Exstar
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: DK Exstar
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 50
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Drilling: DK ExStar in LONG HOOS 5
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/8f39f516-893c-47e1-9217-a7348ae77767
+
+Description: 
+	"seed dressing: Radiate
+This first drilling failed due to damage from slugs and so field was later re-drilled"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: LONG HOOS 5
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81405414724013
+		- Longitude: -0.3755947847033751
+	> asset(asset--plant)
+		- Name: 2019 LONG HOOS 5 DK Exstar
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: DK Exstar
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 50
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: DK ExStar in GREAT HARPENDEN 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/6bb43a07-70ac-4009-9f30-354fcf2ba26b
+
+Description: 
+	"Seed dressing: radiate"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: GREAT HARPENDEN 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.812179531353685
+		- Longitude: -0.36887305342399707
+	> asset(asset--plant)
+		- Name: 2019 GREAT HARPENDEN 2 DK Exstar
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: DK Exstar
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 50
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: Barbados in GREAT FIELD 1/2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/4c445e4c-2f85-4e4c-93d6-0fbf34a1283b
+
+Description: 
+	"Seed dressing: Detornator
+
+Drilled around RAW/2037"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: GREAT FIELD 1/2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80607397864791
+		- Longitude: -0.36263658469046284
+	> asset(asset--plant)
+		- Name: 2019 GREAT FIELD 1/2 Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 70
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: Barbados in WHITEHORSE 1
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/75337b26-c281-49bc-93e6-3f126d5276fb
+
+Description: 
+	"Seed dressing: Detornator"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: WHITEHORSE 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.803162159177305
+		- Longitude: -0.38467232622278147
+	> asset(asset--plant)
+		- Name: 2019 WHITEHORSE 1 Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 70
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: DK ExStar in GREAT FIELD 1/2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/d01b8915-0dc8-4ba4-a603-397dfb518aba
+
+Description: 
+	"seed dressing: Radiate
+
+odds &amp; ends, redrilled due to failed first crop 
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: GREAT FIELD 1/2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80607397864791
+		- Longitude: -0.36263658469046284
+	> asset(asset--plant)
+		- Name: 2019 GREAT FIELD 1/2 DK Exstar
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: DK Exstar
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 50
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: Barbados in FURZEFIELD
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/31e79692-b881-4e47-9bd4-c74b4728f4e5
+
+Description: 
+	"seed dressing: Detonator
+
+All field"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: FURZEFIELD
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.808958846808466
+		- Longitude: -0.3803911552325532
+	> asset(asset--plant)
+		- Name: 2019 FURZEFIELD Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 70
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: Barbados in WHITEHORSE 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/e45f66fe-29c0-4c80-a1e5-04d3c5bdd9e7
+
+Description: 
+	"seed dressing: Detonator"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: WHITEHORSE 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80485330237396
+		- Longitude: -0.38351422385815936
+	> asset(asset--plant)
+		- Name: 2020/R/RAW/2027 2019 WHITEHORSE 2 Barbados
+		- LastUpdate: 2022-05-17T14:21:33+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 70
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: Barbados in 2020/R/RAW/2025 WHITEHORSE 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/870abd99-ad80-494e-bb9d-cb7858e475e5
+
+Description: 
+	"Seed dressing: Detonator"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: 2020/R/RAW/2025
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: 2020/R/RAW/2025 2019 WHITEHORSE 2 Barbados
+		- LastUpdate: 2022-05-17T14:25:06+00:00
+		- Type: Barbados
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: Barbados in WHITEHORSE 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/2768aeb8-1f6b-4baf-b142-43352a22ff43
+
+Description: 
+	"seed dressing: Detonator
+Commercial, surrounds of RAW/2025 drilled - drilled with 3m combination drill
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: WHITEHORSE 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80485330237396
+		- Longitude: -0.38351422385815936
+	> asset(asset--plant)
+		- Name: 2019 WHITEHORSE 2 Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 70
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Drilling: Barbados in LONG HOOS 5
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/5de4c143-1075-4c01-851e-ae08ac9f42b8
+
+Description: 
+	"Seed dressing: Radiate
+odds &amp; ends
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: LONG HOOS 5
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81405414724013
+		- Longitude: -0.3755947847033751
+	> asset(asset--plant)
+		- Name: 2019 LONG HOOS 5 Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 30
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: Barbados in LONG HOOS 6/7
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/a1e1d846-4fcd-4f25-b99a-f998bb8c0122
+
+Description: 
+	"Seed dressing: Radiate
+odds &amp; ends
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: LONG HOOS 6/7
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.814254654412515
+		- Longitude: -0.3766778573285136
+	> asset(asset--plant)
+		- Name: 2019 LONG HOOS 6/7 Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 30
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: Barbados in GREAT HARPENDEN 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/b9407bd3-2807-465c-a97f-27d65befa65f
+
+Description: 
+	"Seed dressing: Radiate
+Redrilled failed crop"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: GREAT HARPENDEN 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.812179531353685
+		- Longitude: -0.36887305342399707
+	> asset(asset--plant)
+		- Name: 2019 GREAT HARPENDEN 2 Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 80
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: Barbados in HOOSFIELD
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/5de379a3-bdcb-4f2f-92fa-a5a5cf0f5ac3
+
+Description: 
+	"Seed dressing: Radiate
+Direct drilled area (ex CS/477) "
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: HOOS FIELD - direct drilled section 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: 2019 HOOSFIELD Barbados
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Barbados
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 80
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: Camelina in PASTURES
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/822199c9-c8c5-44e3-a511-bdc6826c4a5c
+
+Description: 
+	"Stripped drill down and cleaned out before leaving the GM area"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: 2020/R/CM/2053
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+		- Latitude: 51.80862927801621
+		- Longitude: -0.3748781963695359
+	> asset(asset--plant)
+		- Name: 2020 PASTURES Camelina
+		- LastUpdate: 2022-05-17T14:25:06+00:00
+		- Type: Camelina
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD5070
+		- LastUpdate: 2021-02-02T13:51:53+00:00
+		- Description: "Note: Wide Wheeled Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Haldrup SB25 Plot Drill
+		- LastUpdate: 2020-11-26T13:58:57+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: Camelina in PASTURES
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/ee844dd7-5b16-4781-97d1-0bc54760929e
+
+Description: 
+	"Pollen Barrier (WT Camelina)"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: PASTURES
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.807850801698486
+		- Longitude: -0.37354575535970963
+	> asset(asset--plant)
+		- Name: 2020 PASTURES Camelina (2)
+		- LastUpdate: 2022-05-17T14:25:06+00:00
+		- Type: Camelina
+	> quantity(quantity--standard)
+		- Measure: weight
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 1.13
+		- Unit: grams
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 300
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 4.52
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Drilling: Experiment in Fosters 4
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/0a44beba-aac7-4d9f-8b83-15a07ce4d325
+
+Description: 
+	"Guard plots: 10g Barbados OSR"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: 2020/R/RAS/2056
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: 2020 Fosters 4 Experiment
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Experiment
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> owner(user--user)
+		- Name: Martin Gardner
+		- Mail: martin.gardner@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:16+00:00
+	> equipment(asset--equipment)
+		- Name: JD5070
+		- LastUpdate: 2021-02-02T13:51:53+00:00
+		- Description: "Note: Wide Wheeled Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Haldrup SB25 Plot Drill
+		- LastUpdate: 2020-11-26T13:58:57+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Drilling: Empress in RRES LSRE Site
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/9e49d778-561f-492f-8640-28700ae1a3df
+
+Description: 
+	"Plots 20, 53 only - Re-drilled"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> asset(asset--plant)
+		- Name: 2020 RRES LSRE Site Empress
+		- LastUpdate: 2022-05-17T14:26:17+00:00
+		- Type: Empress
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 650
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 51
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Drilling: Vitaro in RRES LSRE Site
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/b0a5f947-ac2b-455c-88b2-b9c8df10f1e5
+
+Description: 
+	"Plot 46 - re-drilled
+White Mustard"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: RRES LSRE Site 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> asset(asset--plant)
+		- Name: 2020 RRES LSRE Site Vitaro
+		- LastUpdate: 2022-05-17T14:26:17+00:00
+		- Type: Vitaro
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 11
+		- Unit: kg/ha
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Drilling: Crusoe in FOSTERS
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/ffc05c27-cf76-4432-baa2-3ce3ccf363e8
+
+Description: 
+	"CS/738 and experimental surrounds - seed dressing Beret Gold"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: FOSTERS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81294749990518
+		- Longitude: -0.3796057228652772
+	> location(asset--land)
+		- Name: 2020/R/CS/738
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: 2020 FOSTERS Crusoe
+		- LastUpdate: 2022-05-17T14:23:48+00:00
+		- Type: Crusoe
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 350
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Drilling: Elyann in Warren
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/66fc51a6-2d7a-42a1-b606-3f6e43f5ca88
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: Warren
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 52.018654610878194
+		- Longitude: -0.5912964845407593
+	> asset(asset--plant)
+		- Name: 2020 Warren Elyann
+		- LastUpdate: 2022-05-17T14:26:17+00:00
+		- Type: Elyann
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 136
+		- Unit: seeds per metre squared (seeds/m^2)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> equipment(asset--equipment)
+		- Name: WES Accord 4m Tyne Drill
+		- LastUpdate: 2020-11-26T14:09:05+00:00
+		- Description: "Max Drill Width: 4 Metres
+Max Plot Length: 9 Metres
+Culter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Plots/Commercial
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+	> equipment(asset--equipment)
+		- Name: JD6620
+		- LastUpdate: 2020-11-26T11:19:17+00:00
+		- Description: "Note: Woburn tractor 
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Seeding: winter barley KWS Tower in HOOS FIELD - direct drilled section Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/2e5c1780-ec51-4ba1-a26b-4711461d9032
+
+Description: 
+	"<ul><li>Direct Drilled </li><li>Notes: Direct drilled area (ex CS/477), old seed </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: HOOS FIELD - direct drilled section 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> asset(asset--plant)
+		- Name: Planting: KWS Tower  HOOS FIELD - direct drilled section Commercial
+		- LastUpdate: 2020-07-07T10:09:24+00:00
+		- Type: KWS Tower
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 350
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Weaving Drill
+		- LastUpdate: 2020-11-26T15:45:23+00:00
+		- Description: "Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Seeding: winter wheat Siskin in WEBBS Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/b10065a3-4572-4847-8418-9d80d91ab767
+
+Description: 
+	"<ul><li>Drilled W Wheat </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: WEBBS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8041005399078
+		- Longitude: -0.38739965405785487
+	> asset(asset--plant)
+		- Name: Planting: Siskin  WEBBS Commercial
+		- LastUpdate: 2020-07-07T10:35:08+00:00
+		- Type: Siskin
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 425
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: winter wheat Siskin in GREAT KNOTT 1 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/aeed0de3-757b-43c9-aaf8-11a6f22b6337
+
+Description: 
+	"<ul><li>Dilled W Wheat </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: GREAT KNOTT 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81228697359023
+		- Longitude: -0.3823328476587994
+	> asset(asset--plant)
+		- Name: Planting: Siskin  GREAT KNOTT 1 Commercial
+		- LastUpdate: 2020-07-07T10:37:30+00:00
+		- Type: Siskin
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 425
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: winter wheat Siskin in GEESCROFT Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/b9da657b-c24f-4b9f-8a4d-58b2f303eed2
+
+Description: 
+	"<ul><li>Drilled W Wheat </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: GEESCROFT
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.802927937551985
+		- Longitude: -0.36161359881134264
+	> asset(asset--plant)
+		- Name: Planting: Siskin  GEESCROFT Commercial
+		- LastUpdate: 2020-07-07T10:37:33+00:00
+		- Type: Siskin
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 425
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: winter wheat Siskin in Stackyard Woburn Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/c58e65ae-4981-45fe-a203-4ab9f338f061
+
+Description: 
+	"<ul><li>Drilled W Wheat </li><li>Notes: Classicals, Drilled surround of WW/2001 - Roughly 6 to 12m surrounding experiment</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: Stackyard Classical and Section A
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.99851273338415
+		- Longitude: -0.6171201556604987
+	> asset(asset--plant)
+		- Name: Planting: Siskin  Stackyard Woburn Commercial
+		- LastUpdate: 2020-07-07T10:37:37+00:00
+		- Type: Siskin
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 425
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: JD6620
+		- LastUpdate: 2020-11-26T11:19:17+00:00
+		- Description: "Note: Woburn tractor 
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: WES Accord 4m Tyne Drill
+		- LastUpdate: 2020-11-26T14:09:05+00:00
+		- Description: "Max Drill Width: 4 Metres
+Max Plot Length: 9 Metres
+Culter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Plots/Commercial
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Seeding: winter wheat Graham in OSIER Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/c6f7a49d-5232-4074-9028-54450f807a05
+
+Description: 
+	"<ul><li>Dilled W Wheat </li><li>Notes: Odds & Ends, Started </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: OSIER
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80422333302656
+		- Longitude: -0.3914415517229353
+	> asset(asset--plant)
+		- Name: Planting: Graham  OSIER Commercial
+		- LastUpdate: 2020-07-07T10:37:40+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 450
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: winter wheat Graham in OSIER Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/900319b4-51fb-4f2e-9626-97234385965b
+
+Description: 
+	"<ul><li>Dilled W Wheat </li><li>Notes: Odds & Ends, Finished</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: OSIER
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80422333302656
+		- Longitude: -0.3914415517229353
+	> asset(asset--plant)
+		- Name: Planting: Graham  OSIER Commercial
+		- LastUpdate: 2020-07-07T10:37:43+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 450
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: winter beans Tundra in STACKYARD Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/0b3ad464-6f8f-431e-8a81-4f4feb7fdf9c
+
+Description: 
+	"<ul><li>Spun on W Beans before ploughing in</li><li>Notes: Started</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: STACKYARD
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.808400452556306
+		- Longitude: -0.3686067032505246
+	> asset(asset--plant)
+		- Name: Planting: Tundra  STACKYARD Commercial
+		- LastUpdate: 2020-07-07T10:37:46+00:00
+		- Type: Tundra
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Fred Ledbury
+		- Mail: fred@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-21T21:59:06+00:00
+	> equipment(asset--equipment)
+		- Name: JD6930
+		- LastUpdate: 2022-02-14T12:09:58+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Amzone Disc Spreader 
+		- LastUpdate: 2021-03-12T11:54:58+00:00
+		- Description: "Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Seeding: winter wheat Graham in BYLANDS Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/f3da9f9c-1cb0-468b-bb9b-abecd2af6afd
+
+Description: 
+	"<ul><li>Drilled W Wheat </li><li>Notes: Finished </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: BYLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80353385082231
+		- Longitude: -0.3971380089140847
+	> asset(asset--plant)
+		- Name: Planting: Graham  BYLANDS Commercial
+		- LastUpdate: 2020-07-07T10:37:49+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 450
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: winter wheat Graham in LONG HOOS 1/2 + 3 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/4daa4cd0-728f-44ce-b8c3-cecc7ba8db81
+
+Description: 
+	"<ul><li>Dilled W Wheat </li><li>Notes: Odds & Ends only</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: LONG HOOS 1/2 + 3
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81326656044774
+		- Longitude: -0.37259146644169305
+	> asset(asset--plant)
+		- Name: Planting: Graham  LONG HOOS 1/2 + 3 Commercial
+		- LastUpdate: 2020-12-21T07:31:41+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 450
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: winter wheat Graham in MEADOW Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/4d349d65-d7f6-4ceb-83a6-e98eb0aee7b9
+
+Description: 
+	"<ul><li>Drilled W Wheat - Drilled over 4 days from 4th to 7th Feb 2020</li><li>Notes: Finished </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> location(asset--land)
+		- Name: MEADOW
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80286861647915
+		- Longitude: -0.39441997654759614
+	> asset(asset--plant)
+		- Name: Planting: Graham  MEADOW Commercial
+		- LastUpdate: 2020-07-07T10:37:55+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 450
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: winter beans Tundra in STACKYARD Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/6e2d1899-c875-4684-ab61-ad9b85a635ad
+
+Description: 
+	"<ul><li>Spun on W Beans before ploughing in</li><li>Notes: Finished </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: STACKYARD
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.808400452556306
+		- Longitude: -0.3686067032505246
+	> asset(asset--plant)
+		- Name: Planting: Tundra  STACKYARD Commercial
+		- LastUpdate: 2020-07-07T10:38:50+00:00
+		- Type: Tundra
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Fred Ledbury
+		- Mail: fred@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-21T21:59:06+00:00
+	> equipment(asset--equipment)
+		- Name: JD6930
+		- LastUpdate: 2022-02-14T12:09:58+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Amzone Disc Spreader 
+		- LastUpdate: 2021-03-12T11:54:58+00:00
+		- Description: "Agrovoc term: fertilizer distributors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2865"
+
+==============================================================================================
+
+Action:
+	Seeding: winter wheat Graham in LONG HOOS 4 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/12dbd82f-7beb-4b52-8d2d-652720f184b9
+
+Description: 
+	"<ul><li>Drilled</li><li>Notes: Odds & Ends only</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: LONG HOOS 4
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.813893805047336
+		- Longitude: -0.37455773533721215
+	> asset(asset--plant)
+		- Name: Planting: Graham  LONG HOOS 4 Commercial
+		- LastUpdate: 2020-07-07T10:38:53+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 450
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: winter wheat Graham in DELAFIELD Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/feef1114-484f-4904-b851-544d5ae71c80
+
+Description: 
+	"<ul><li>Drilled</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: DELAFIELD
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8179355263131
+		- Longitude: -0.37668257743955635
+	> asset(asset--plant)
+		- Name: Planting: Graham  DELAFIELD Commercial
+		- LastUpdate: 2020-07-07T10:38:56+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 450
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: winter wheat Graham in SCOUT Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/ca2dd25d-bf7f-4ae7-b890-e2498976f5b1
+
+Description: 
+	"<ul><li>Drilled</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: SCOUT
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80810160460374
+		- Longitude: -0.39316101669031106
+	> asset(asset--plant)
+		- Name: Planting: Graham  SCOUT Commercial
+		- LastUpdate: 2020-07-07T10:38:59+00:00
+		- Type: Graham
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 450
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: spring barley Diablo in GREAT HILL Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/eba41851-2a42-4d31-b78e-7a13c5c36a1a
+
+Description: 
+	"<ul><li>Drilled Spring Barley</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: Great Hill
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 52.01223376868194
+		- Longitude: -0.590965573016316
+	> asset(asset--plant)
+		- Name: Planting: Diablo  GREAT HILL Commercial
+		- LastUpdate: 2020-07-07T10:39:02+00:00
+		- Type: Diablo
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 192
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: JD6620
+		- LastUpdate: 2020-11-26T11:19:17+00:00
+		- Description: "Note: Woburn tractor 
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: WES Accord 4m Tyne Drill
+		- LastUpdate: 2020-11-26T14:09:05+00:00
+		- Description: "Max Drill Width: 4 Metres
+Max Plot Length: 9 Metres
+Culter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Plots/Commercial
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Seeding: spring barley Diablo in BUTT CLONG Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/9c8dca70-9174-4a4a-bbf7-7acc97422388
+
+Description: 
+	"<ul><li>Drilled Spring Barley</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: Butt Clong
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 52.01236008591959
+		- Longitude: -0.5960324440693185
+	> asset(asset--plant)
+		- Name: Planting: Diablo  BUTT CLONG Commercial
+		- LastUpdate: 2020-07-07T10:39:06+00:00
+		- Type: Diablo
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 192
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: JD6620
+		- LastUpdate: 2020-11-26T11:19:17+00:00
+		- Description: "Note: Woburn tractor 
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: WES Accord 4m Tyne Drill
+		- LastUpdate: 2020-11-26T14:09:05+00:00
+		- Description: "Max Drill Width: 4 Metres
+Max Plot Length: 9 Metres
+Culter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Plots/Commercial
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Seeding: spring barley Diablo in Stackyard Woburn Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/239f1fe9-0fab-4276-9e19-1276603e509a
+
+Description: 
+	"<ul><li>Drilled Spring Barley</li><li>Notes: Block C</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: Stackyard Woburn
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.99965833316099
+		- Longitude: -0.6162361539633309
+	> asset(asset--plant)
+		- Name: Planting: Diablo  Stackyard Woburn Commercial
+		- LastUpdate: 2020-07-07T10:39:09+00:00
+		- Type: Diablo
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 192
+		- Unit: kg/ha
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: JD6620
+		- LastUpdate: 2020-11-26T11:19:17+00:00
+		- Description: "Note: Woburn tractor 
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: WES Accord 4m Tyne Drill
+		- LastUpdate: 2020-11-26T14:09:05+00:00
+		- Description: "Max Drill Width: 4 Metres
+Max Plot Length: 9 Metres
+Culter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Plots/Commercial
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Seeding: spring wheat Tybalt in PARKLANDS Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/e636dd17-fbcf-478b-ad1e-023ff2b84ccf
+
+Description: 
+	"<ul><li>Drilled Sp Wheat</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: PARKLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80717035735208
+		- Longitude: -0.3657012805795821
+	> asset(asset--plant)
+		- Name: Planting: Tybalt  PARKLANDS Commercial
+		- LastUpdate: 2020-07-07T10:39:12+00:00
+		- Type: Chilham
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 350
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Ian Shield
+		- Mail: ian.shield@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-25T12:41:50+00:00
+	> equipment(asset--equipment)
+		- Name: JD6930
+		- LastUpdate: 2022-02-14T12:09:58+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: spring wheat Tybalt in BROADBALK BK/1
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/7667a402-a982-4a82-92b8-0c3458c51b47
+
+Description: 
+	"<ul><li>Drilled Sp Wheat </li><li>Notes: Section 3 + 4 Not drilled </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: BROADBALK - 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> asset(asset--plant)
+		- Name: Planting: Tybalt  BROADBALK BK/1
+		- LastUpdate: 2020-07-07T10:49:43+00:00
+		- Type: Chilham
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 350
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: spring oats Elyann in BROADBALK BK/1
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/463cf30f-2c43-48e2-8542-29f6db3754e1
+
+Description: 
+	"<ul><li>Drilled Sp Oats </li><li>Notes: Section 3 only </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: BROADBALK - 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> asset(asset--plant)
+		- Name: Planting: Elyann  BROADBALK BK/1
+		- LastUpdate: 2020-07-07T10:50:26+00:00
+		- Type: Elyann
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 350
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: winter beans Tundra in BROADBALK BK/1
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/bbdbf0c0-e4e1-47f1-b3c1-31381afcf61e
+
+Description: 
+	"<ul><li>Drilled W Beans </li><li>Notes: Section 4 only </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: BROADBALK - 2020
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+	> asset(asset--plant)
+		- Name: Planting: Tundra  BROADBALK BK/1
+		- LastUpdate: 2020-07-07T10:50:29+00:00
+		- Type: Tundra
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 35
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: spring oats Elyann in SUMMERDELLS 1 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/a4100c63-7e82-4878-8ead-eb4016c95a97
+
+Description: 
+	"<ul><li>Drilled Sp Oats </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: SUMMERDELLS 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.802847337179195
+		- Longitude: -0.3803377644020983
+	> asset(asset--plant)
+		- Name: Planting: Elyann  SUMMERDELLS 1 Commercial
+		- LastUpdate: 2020-07-07T10:50:32+00:00
+		- Type: Elyann
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 350
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Horsch CO4
+		- LastUpdate: 2020-11-26T14:01:40+00:00
+		- Description: "Note: 4m wide min-till drill
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Seeding: spring oats Elyann in SUMMERDELLS 2 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/fb4e7e5d-bc1a-4f0a-a5b5-3226e608e780
+
+Description: 
+	"<ul><li>Drilled Sp Oats </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: SUMMERDELLS 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.804318449044516
+		- Longitude: -0.37891682027406726
+	> asset(asset--plant)
+		- Name: Planting: Elyann  SUMMERDELLS 2 Commercial
+		- LastUpdate: 2020-07-07T10:50:35+00:00
+		- Type: Elyann
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 350
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Horsch CO4
+		- LastUpdate: 2020-11-26T14:01:40+00:00
+		- Description: "Note: 4m wide min-till drill
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Seeding: spring barley Diablo in HIGHFIELD 4 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/e986d361-eafd-40c9-8381-c00c9bc746ad
+
+Description: 
+	"<ul><li>Drilled Sp Barley </li><li>Notes: Started, ploughing a bit hard, but ok</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: HIGHFIELD 4
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80161050740583
+		- Longitude: -0.3634833472772741
+	> asset(asset--plant)
+		- Name: Planting: Diablo  HIGHFIELD 4 Commercial
+		- LastUpdate: 2020-07-07T10:50:38+00:00
+		- Type: Diablo
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 350
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Ian Shield
+		- Mail: ian.shield@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-25T12:41:50+00:00
+	> equipment(asset--equipment)
+		- Name: JD6930
+		- LastUpdate: 2022-02-14T12:09:58+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: spring barley Diablo in HIGHFIELD 4 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/df4911a8-8edc-4fe4-aeb5-340f6fe71ed2
+
+Description: 
+	"<ul><li>Drilled Sp Barley </li><li>Notes: Finished, ploughing a bit hard but ok</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: HIGHFIELD 4
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80161050740583
+		- Longitude: -0.3634833472772741
+	> asset(asset--plant)
+		- Name: Planting: Diablo  HIGHFIELD 4 Commercial
+		- LastUpdate: 2020-07-07T10:50:42+00:00
+		- Type: Diablo
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 350
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Ian Shield
+		- Mail: ian.shield@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-25T12:41:50+00:00
+	> equipment(asset--equipment)
+		- Name: JD6930
+		- LastUpdate: 2022-02-14T12:09:58+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Accord Combination Drill No. 4
+		- LastUpdate: 2020-11-27T10:07:40+00:00
+		- Description: "Max Drill Width: 3 Metres
+Max Plot Length: 9 Metres
+Coulter Type: Suffolk Culters
+Linkage: 3 Point Linkage
+Main Job/s: Commercial/Plots
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386
+"
+
+==============================================================================================
+
+Action:
+	Seeding: spring oats Elyann in SUMMERDELLS 1 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/336a733d-fc33-4be6-a983-87a69a80ea0b
+
+Description: 
+	"<ul><li>Drilled Sp Oats </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: SUMMERDELLS 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.802847337179195
+		- Longitude: -0.3803377644020983
+	> asset(asset--plant)
+		- Name: Planting: Elyann  SUMMERDELLS 1 Commercial
+		- LastUpdate: 2020-07-07T10:50:45+00:00
+		- Type: Elyann
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 350
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Horsch CO4
+		- LastUpdate: 2020-11-26T14:01:40+00:00
+		- Description: "Note: 4m wide min-till drill
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+
+Action:
+	Seeding: spring oats Elyann in SUMMERDELLS 2 Commercial
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/seeding/d3b5dbe4-a6c1-4d24-8514-dc6335244816
+
+Description: 
+	"<ul><li>Drilled Sp Oats </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Planting
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: planting
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_5992"
+	> category(taxonomy_term--log_category)
+		- Name: Excel upload
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "For flagging uploads from Excel"
+	> location(asset--land)
+		- Name: SUMMERDELLS 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.804318449044516
+		- Longitude: -0.37891682027406726
+	> asset(asset--plant)
+		- Name: Planting: Elyann  SUMMERDELLS 2 Commercial
+		- LastUpdate: 2020-07-07T10:50:48+00:00
+		- Type: Elyann
+	> quantity(quantity--standard)
+		- Measure: rate
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 350
+		- Unit: seeds per metre squared (seeds/m^2)
+	> owner(user--user)
+		- Name: Tim Hall
+		- Mail: tim.hall@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-04-20T08:45:56+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Horsch CO4
+		- LastUpdate: 2020-11-26T14:01:40+00:00
+		- Description: "Note: 4m wide min-till drill
+
+Agrovoc term: seed drills
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_2386"
+
+==============================================================================================
+

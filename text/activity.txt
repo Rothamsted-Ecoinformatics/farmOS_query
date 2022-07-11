@@ -1,0 +1,2936 @@
+Action:
+	Topped: Barnfield
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/fd0ed7b7-9a4d-4080-9c1c-1b993ca804b0
+
+Description: 
+	"Cutting space for car park - area topped at northern end of the field</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> location(asset--land)
+		- Name: BARNFIELD
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80740728043908
+		- Longitude: -0.35901954948296116
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> equipment(asset--equipment)
+		- Name: MF3070
+		- LastUpdate: 2021-02-02T14:17:15+00:00
+		- Description: "Note: Hedge Cutting Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Topper 9
+		- LastUpdate: 2021-05-27T10:34:03+00:00
+		- Description: "Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+
+==============================================================================================
+
+Action:
+	Topped: Claycroft
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/1026107e-3717-47cd-9ed4-de6bed156a2a
+
+Description: 
+	"Topped field edge and experiments</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> location(asset--land)
+		- Name: CLAYCROFT
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8060019604761
+		- Longitude: -0.38037559930143605
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: MF3070
+		- LastUpdate: 2021-02-02T14:17:15+00:00
+		- Description: "Note: Hedge Cutting Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Topper 9
+		- LastUpdate: 2021-05-27T10:34:03+00:00
+		- Description: "Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+
+==============================================================================================
+
+Action:
+	Topped: Delafield
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/fa0a1e4f-3fd5-4ea4-8523-41667c106c55
+
+Description: 
+	"Topped commercial field</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: DELAFIELD
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8179355263131
+		- Longitude: -0.37668257743955635
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Topped: Fosters Corner
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/700f13de-d849-488a-94fa-91b21ef5e969
+
+Description: 
+	"Topped commercial field</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: FOSTERS CORNER
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81426859528025
+		- Longitude: -0.3781361541328023
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Topped: Garden Plots
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/b0cacb54-d47b-4b2e-a8d9-5d4602f73132
+
+Description: 
+	"Topped commercial field</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> location(asset--land)
+		- Name: GARDEN PLOTS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80803093529418
+		- Longitude: -0.36077310573302834
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Topper 9
+		- LastUpdate: 2021-05-27T10:34:03+00:00
+		- Description: "Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+
+==============================================================================================
+
+Action:
+	Topped: Great Harpenden 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/80657807-5bf0-4092-ad65-77b68b73efff
+
+Description: 
+	"Topped commercial field</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: GREAT HARPENDEN 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.812179531353685
+		- Longitude: -0.36887305342399707
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Topped: Long Hoos 1, 2+3
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/c6abf1ab-115d-4b04-99bd-2cb13df972b1
+
+Description: 
+	"Topped commercial field</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: LONG HOOS 1/2 + 3
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81326656044774
+		- Longitude: -0.37259146644169305
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Topped: Long Hoos 4
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/4f4de69f-ba04-4b48-8e03-042a2abc3c7e
+
+Description: 
+	"Topped commercial field</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: LONG HOOS 4
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.813893805047336
+		- Longitude: -0.37455773533721215
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Topped: Meadow
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/0fccbc11-013f-4635-80c5-4d181fa16dfc
+
+Description: 
+	"Topped commercial field</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: MEADOW
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80286861647915
+		- Longitude: -0.39441997654759614
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Topped: Webbs
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/cd736344-efcf-4431-ac40-e19d7b340c89
+
+Description: 
+	"Topped commercial field</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: WEBBS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.8041005399078
+		- Longitude: -0.38739965405785487
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Topped: Whitehorse 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/1f04e2d5-57b1-4bc9-9cb8-5123ff59f0ef
+
+Description: 
+	"Topped commercial field</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: WHITEHORSE 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80485330237396
+		- Longitude: -0.38351422385815936
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Topped: Whittlocks
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/83793aa4-8c9b-42a4-9d65-af44d6c0afc3
+
+Description: 
+	"Topped around all willow experiments</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> location(asset--land)
+		- Name: WHITTLOCKS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81613107567908
+		- Longitude: -0.3809821737446911
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: ISTH4335
+		- LastUpdate: 2021-02-02T14:14:35+00:00
+		- Description: "Note: Small Machinery Tractor
+
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kilworth Topper
+		- LastUpdate: 2021-05-05T07:12:50+00:00
+		- Description: "Note: Used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+
+==============================================================================================
+
+Action:
+	Topped: AGDELL HARWOODS
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/5008ba6f-653e-42b8-9a49-26bb39c2a31e
+
+Description: 
+	"Topped field edge</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> location(asset--land)
+		- Name: AGDELL/HARWOODS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.806177874398934
+		- Longitude: -0.35751699643557355
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: MF3070
+		- LastUpdate: 2021-02-02T14:17:15+00:00
+		- Description: "Note: Hedge Cutting Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Topper 9
+		- LastUpdate: 2021-05-27T10:34:03+00:00
+		- Description: "Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+
+==============================================================================================
+
+Action:
+	Topped: Highfield 5+6
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/afc369bc-bd14-4e8a-b4d6-29471d515176
+
+Description: 
+	"Topped commercial field</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> location(asset--land)
+		- Name: HIGHFIELD 5/6
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.802782584447925
+		- Longitude: -0.3660373729580784
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Cultivation: Sub Tillage 40 cm in MEADOW
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/881a0efc-7779-4bd4-a44c-0c3e11052bca
+
+Description: 
+	"Tramlines and headlands "
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Subsoiling
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: subsoiling
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_15593
+Agrovoc scope note: Tillage of the subsoil or soil pan below the normal plough depth (en)"
+	> location(asset--land)
+		- Name: BYLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80353385082231
+		- Longitude: -0.3971380089140847
+	> location(asset--land)
+		- Name: 2020/R/WW/2014
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: MEADOW
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80286861647915
+		- Longitude: -0.39441997654759614
+	> location(asset--land)
+		- Name: 2020/R/WW/2015
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2016
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2018
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2029
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2032
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> quantity(quantity--standard)
+		- Measure: length
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 40
+		- Unit: centimeters (cm)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 0
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Christoph Russell
+		- Mail: christoph.russell@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-30T07:32:54+00:00
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Simba Flat Lift
+		- LastUpdate: 2020-11-26T15:39:01+00:00
+		- Description: "Agrovoc term: subsoilers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25808
+"
+
+==============================================================================================
+
+Action:
+	Cultipressed: Meadow
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/093f5a09-214d-4955-ba34-c5b87270f3fd
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Cultipressing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+	> location(asset--land)
+		- Name: BYLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80353385082231
+		- Longitude: -0.3971380089140847
+	> location(asset--land)
+		- Name: 2020/R/WW/2014
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: MEADOW
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80286861647915
+		- Longitude: -0.39441997654759614
+	> location(asset--land)
+		- Name: 2020/R/WW/2015
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2016
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2018
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2029
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2032
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Philip Watkins Press
+		- LastUpdate: 2020-11-26T13:27:14+00:00
+		- Description: "Agrovoc term: presses
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_35747"
+
+==============================================================================================
+
+Action:
+	Cultipressed: Parklands
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/ecc0d62f-4be4-449e-878f-cf1690c19c9a
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Cultipressing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+	> location(asset--land)
+		- Name: PARKLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80717035735208
+		- Longitude: -0.3657012805795821
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6830
+		- LastUpdate: 2021-02-02T14:02:34+00:00
+		- Description: "Note: Fertiliser Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Philip Watkins Press
+		- LastUpdate: 2020-11-26T13:27:14+00:00
+		- Description: "Agrovoc term: presses
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_35747"
+
+==============================================================================================
+
+Action:
+	Ploughed: Furzefield
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/6ff3337b-b1ea-4447-8c5b-0e69f2f85c77
+
+Description: 
+	"Ploughed commercial field. Thrown North</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Ploughing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: ploughing
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6021"
+	> location(asset--land)
+		- Name: FURZEFIELD
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.808958846808466
+		- Longitude: -0.3803911552325532
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: KV Five Furrow Plough
+		- LastUpdate: 2020-11-26T15:31:58+00:00
+		- Description: "Note: 5 Furrow reversible, 1.5m wide
+
+Agrovoc term: reversible ploughs
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25910"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Ploughed: Meadow
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/bc27385c-3448-4591-8495-40ebe8df3287
+
+Description: 
+	"Ploughed commercial field. Thrown South</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Ploughing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: ploughing
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6021"
+	> location(asset--land)
+		- Name: BYLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80353385082231
+		- Longitude: -0.3971380089140847
+	> location(asset--land)
+		- Name: 2020/R/WW/2014
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: MEADOW
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80286861647915
+		- Longitude: -0.39441997654759614
+	> location(asset--land)
+		- Name: 2020/R/WW/2015
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2016
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2018
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2029
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2032
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: KV Five Furrow Plough
+		- LastUpdate: 2020-11-26T15:31:58+00:00
+		- Description: "Note: 5 Furrow reversible, 1.5m wide
+
+Agrovoc term: reversible ploughs
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25910"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Ploughed: Meadow
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/a213e213-2ec0-4649-a4c0-0ba472250eff
+
+Description: 
+	"Ploughed commercial field. Thrown South</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Ploughing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: ploughing
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6021"
+	> location(asset--land)
+		- Name: BYLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80353385082231
+		- Longitude: -0.3971380089140847
+	> location(asset--land)
+		- Name: 2020/R/WW/2014
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: MEADOW
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80286861647915
+		- Longitude: -0.39441997654759614
+	> location(asset--land)
+		- Name: 2020/R/WW/2015
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2016
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2018
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2029
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2032
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: KV Five Furrow Plough
+		- LastUpdate: 2020-11-26T15:31:58+00:00
+		- Description: "Note: 5 Furrow reversible, 1.5m wide
+
+Agrovoc term: reversible ploughs
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25910"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Ploughed: Meadow
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/1124e527-6b07-450e-9191-c323e8b632da
+
+Description: 
+	"Ploughed commercial field. Thrown South</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Ploughing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: ploughing
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6021"
+	> location(asset--land)
+		- Name: BYLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80353385082231
+		- Longitude: -0.3971380089140847
+	> location(asset--land)
+		- Name: 2020/R/WW/2014
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: MEADOW
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80286861647915
+		- Longitude: -0.39441997654759614
+	> location(asset--land)
+		- Name: 2020/R/WW/2015
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2016
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2018
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2029
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2032
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: KV Five Furrow Plough
+		- LastUpdate: 2020-11-26T15:31:58+00:00
+		- Description: "Note: 5 Furrow reversible, 1.5m wide
+
+Agrovoc term: reversible ploughs
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25910"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Ploughed: Parklands
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/67d659ba-5e1b-421d-8b4d-63764c627de8
+
+Description: 
+	"Ploughed commercial field. Thrown West</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Ploughing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: ploughing
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6021"
+	> location(asset--land)
+		- Name: PARKLANDS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80717035735208
+		- Longitude: -0.3657012805795821
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: KV Five Furrow Plough
+		- LastUpdate: 2020-11-26T15:31:58+00:00
+		- Description: "Note: 5 Furrow reversible, 1.5m wide
+
+Agrovoc term: reversible ploughs
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25910"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Rolled: Great field 1+2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/6180a909-4742-4131-b93c-d41972989dae
+
+Description: 
+	"Rolled commercial field."
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Rolling
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: rolling
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25797
+Agrovoc scope note: Use of a cylinder to crush lumps and to firm the soil, sometimes also to facilitate tillering of cereals (en)
+Note: Rolling is a seed bed consolidation and levelling process"
+	> location(asset--land)
+		- Name: GREAT FIELD 1/2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80607397864791
+		- Longitude: -0.36263658469046284
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: 6m Flexicoil Cambridge Roll
+		- LastUpdate: 2020-11-26T10:08:24+00:00
+		- Description: "Commercial Roll
+
+Agrovoc term: rollers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6636"
+
+==============================================================================================
+
+Action:
+	Rolled: White horse 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/30c90978-cee0-4bfb-8a21-d7a902a55f0b
+
+Description: 
+	"Rolled area of field that was drilled on 19/08/19</p>
+"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Rolling
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: rolling
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25797
+Agrovoc scope note: Use of a cylinder to crush lumps and to firm the soil, sometimes also to facilitate tillering of cereals (en)
+Note: Rolling is a seed bed consolidation and levelling process"
+	> location(asset--land)
+		- Name: WHITEHORSE 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80485330237396
+		- Longitude: -0.38351422385815936
+	> location(asset--land)
+		- Name: 2020/R/RAW/2025
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/RAW/2027
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: 6m Flexicoil Cambridge Roll
+		- LastUpdate: 2020-11-26T10:08:24+00:00
+		- Description: "Commercial Roll
+
+Agrovoc term: rollers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6636"
+
+==============================================================================================
+
+Action:
+	Rolled: Long Hoos 5, 6+7
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/b2092e90-4401-4d49-aaad-0b4313577583
+
+Description: 
+	"Rolled commercial field."
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Rolling
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: rolling
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25797
+Agrovoc scope note: Use of a cylinder to crush lumps and to firm the soil, sometimes also to facilitate tillering of cereals (en)
+Note: Rolling is a seed bed consolidation and levelling process"
+	> location(asset--land)
+		- Name: LONG HOOS 5
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81405414724013
+		- Longitude: -0.3755947847033751
+	> location(asset--land)
+		- Name: 2020/R/CS/773
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: LONG HOOS 6/7
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.814254654412515
+		- Longitude: -0.3766778573285136
+	> location(asset--land)
+		- Name: 2020/R/CS/789
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: 6m Flexicoil Cambridge Roll
+		- LastUpdate: 2020-11-26T10:08:24+00:00
+		- Description: "Commercial Roll
+
+Agrovoc term: rollers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6636"
+
+==============================================================================================
+
+Action:
+	Min-till: Drapers
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/827ac163-fd57-493a-a3f4-858c563036da
+
+Description: 
+	"Min-till commercial field. Lemkin Karat JD 6930, 45 degrees to trams"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Minimum tillage
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: minimum tillage
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_32734
+Agrovoc definition: Minimum tillage has been defined as the minimum soil disturbance needed for crop production.(en)"
+	> location(asset--land)
+		- Name: DRAPERS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80633667986535
+		- Longitude: -0.3871134006758104
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6930
+		- LastUpdate: 2022-02-14T12:09:58+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Lemkin Karat 9KU
+		- LastUpdate: 2020-11-26T14:24:14+00:00
+		- Description: "Note: Minimum Tillage - Stubble Cultivator. 3.5m wide
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Min-till: Great field 1+2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/0c1ad9b9-bcec-4bd5-8d82-34807a4c2a75
+
+Description: 
+	"Min-till commercial field. Lemkin Karat JD 6930"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Minimum tillage
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: minimum tillage
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_32734
+Agrovoc definition: Minimum tillage has been defined as the minimum soil disturbance needed for crop production.(en)"
+	> location(asset--land)
+		- Name: GREAT FIELD 1/2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80607397864791
+		- Longitude: -0.36263658469046284
+	> location(asset--land)
+		- Name: 2020/R/RAW/2028
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6930
+		- LastUpdate: 2022-02-14T12:09:58+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Lemkin Karat 9KU
+		- LastUpdate: 2020-11-26T14:24:14+00:00
+		- Description: "Note: Minimum Tillage - Stubble Cultivator. 3.5m wide
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Min-till: Great Harpenden 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/744accd7-d295-4048-ab0b-d3c3286d7a0a
+
+Description: 
+	"Min-till commercial field. Lemkin Karat JD 6930"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Minimum tillage
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: minimum tillage
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_32734
+Agrovoc definition: Minimum tillage has been defined as the minimum soil disturbance needed for crop production.(en)"
+	> location(asset--land)
+		- Name: GREAT HARPENDEN 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.812179531353685
+		- Longitude: -0.36887305342399707
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6930
+		- LastUpdate: 2022-02-14T12:09:58+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Lemkin Karat 9KU
+		- LastUpdate: 2020-11-26T14:24:14+00:00
+		- Description: "Note: Minimum Tillage - Stubble Cultivator. 3.5m wide
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Min-till: Long Hoos 1, 2, 3
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/c712e9e7-7723-4112-bc13-37cfb5c213a6
+
+Description: 
+	"Min-till commercial field. Lemkin Karat JD 6930, 45 degrees to trams"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Minimum tillage
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: minimum tillage
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_32734
+Agrovoc definition: Minimum tillage has been defined as the minimum soil disturbance needed for crop production.(en)"
+	> location(asset--land)
+		- Name: LONG HOOS 1/2 + 3
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81326656044774
+		- Longitude: -0.37259146644169305
+	> location(asset--land)
+		- Name: 2020/R/WW/2019
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/WW/2022
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6930
+		- LastUpdate: 2022-02-14T12:09:58+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Lemkin Karat 9KU
+		- LastUpdate: 2020-11-26T14:24:14+00:00
+		- Description: "Note: Minimum Tillage - Stubble Cultivator. 3.5m wide
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Min-till: Long Hoos 5, 6+7
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/4a3d3fa8-7ec7-486c-81ff-8bc2dd431d88
+
+Description: 
+	"Min-till commercial field. Lemkin Karat JD 6930"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Minimum tillage
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: minimum tillage
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_32734
+Agrovoc definition: Minimum tillage has been defined as the minimum soil disturbance needed for crop production.(en)"
+	> location(asset--land)
+		- Name: LONG HOOS 5
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81405414724013
+		- Longitude: -0.3755947847033751
+	> location(asset--land)
+		- Name: 2020/R/CS/773
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: LONG HOOS 6/7
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.814254654412515
+		- Longitude: -0.3766778573285136
+	> location(asset--land)
+		- Name: 2020/R/CS/789
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6930
+		- LastUpdate: 2022-02-14T12:09:58+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Lemkin Karat 9KU
+		- LastUpdate: 2020-11-26T14:24:14+00:00
+		- Description: "Note: Minimum Tillage - Stubble Cultivator. 3.5m wide
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Min-till: Osier
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/cd137494-1d7a-4262-9234-3d00f39621fe
+
+Description: 
+	"Min-till commercial field. Lemkin Karat JD 6930, all field commercial"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Minimum tillage
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: minimum tillage
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_32734
+Agrovoc definition: Minimum tillage has been defined as the minimum soil disturbance needed for crop production.(en)"
+	> location(asset--land)
+		- Name: OSIER
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80422333302656
+		- Longitude: -0.3914415517229353
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6930
+		- LastUpdate: 2022-02-14T12:09:58+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Lemkin Karat 9KU
+		- LastUpdate: 2020-11-26T14:24:14+00:00
+		- Description: "Note: Minimum Tillage - Stubble Cultivator. 3.5m wide
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Min-till: White horse 1
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/a24666d0-af84-4013-8e32-d8e2c6d43622
+
+Description: 
+	"Min-till commercial field. Lemkin Karat JD 6930"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Minimum tillage
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: minimum tillage
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_32734
+Agrovoc definition: Minimum tillage has been defined as the minimum soil disturbance needed for crop production.(en)"
+	> location(asset--land)
+		- Name: WHITEHORSE 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.803162159177305
+		- Longitude: -0.38467232622278147
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD6930
+		- LastUpdate: 2022-02-14T12:09:58+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Lemkin Karat 9KU
+		- LastUpdate: 2020-11-26T14:24:14+00:00
+		- Description: "Note: Minimum Tillage - Stubble Cultivator. 3.5m wide
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Ploughed: White horse 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/b634b881-597a-4b23-b3a7-8a56240d09e3
+
+Description: 
+	"KV five furrow Plough, T 7.210. finished Thrown South"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Ploughing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: ploughing
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6021"
+	> location(asset--land)
+		- Name: WHITEHORSE 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80485330237396
+		- Longitude: -0.38351422385815936
+	> location(asset--land)
+		- Name: 2020/R/RAW/2025
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/RAW/2027
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: KV Five Furrow Plough
+		- LastUpdate: 2020-11-26T15:31:58+00:00
+		- Description: "Note: 5 Furrow reversible, 1.5m wide
+
+Agrovoc term: reversible ploughs
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25910"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Rolled WOSR: Furzefield
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/475ffcd8-e694-4753-9d0f-db8dce5aeab5
+
+Description: 
+	"Rolling WOSR on commercial field"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Rolling
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: rolling
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25797
+Agrovoc scope note: Use of a cylinder to crush lumps and to firm the soil, sometimes also to facilitate tillering of cereals (en)
+Note: Rolling is a seed bed consolidation and levelling process"
+	> location(asset--land)
+		- Name: FURZEFIELD
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.808958846808466
+		- Longitude: -0.3803911552325532
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: 6m Flexicoil Cambridge Roll
+		- LastUpdate: 2020-11-26T10:08:24+00:00
+		- Description: "Commercial Roll
+
+Agrovoc term: rollers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6636"
+	> equipment(asset--equipment)
+		- Name: JD5620
+		- LastUpdate: 2021-02-02T13:53:00+00:00
+		- Description: "Note: Drilling Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Cultivation: Ploughed Tillage 30 cm in GREAT FIELD 1/2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/b2770f11-e73a-4488-a408-a63e6cae7cc2
+
+Description: 
+	"Plough thrown: E
+
+Commercial"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Ploughing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: ploughing
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6021"
+	> location(asset--land)
+		- Name: GREAT FIELD 1/2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80607397864791
+		- Longitude: -0.36263658469046284
+	> quantity(quantity--standard)
+		- Measure: length
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Value: 30
+		- Unit: centimeters (cm)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: KV Five Furrow Plough
+		- LastUpdate: 2020-11-26T15:31:58+00:00
+		- Description: "Note: 5 Furrow reversible, 1.5m wide
+
+Agrovoc term: reversible ploughs
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25910"
+
+==============================================================================================
+
+Action:
+	Cultivation: Minimum Tillage 0 cm in GREAT FIELD 1/2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/f5a68c1e-bc6b-419d-aef9-f46953fea4ac
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Minimum tillage
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: minimum tillage
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_32734
+Agrovoc definition: Minimum tillage has been defined as the minimum soil disturbance needed for crop production.(en)"
+	> location(asset--land)
+		- Name: GREAT FIELD 1/2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80607397864791
+		- Longitude: -0.36263658469046284
+	> quantity(quantity--standard)
+		- Measure: length
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: centimeters (cm)
+	> quantity(quantity--standard)
+		- Measure: time
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Unit: hours (h)
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Philip Watkins Press
+		- LastUpdate: 2020-11-26T13:27:14+00:00
+		- Description: "Agrovoc term: presses
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_35747"
+
+==============================================================================================
+
+Action:
+	Topped: Whitehorse 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/72ac586f-245b-42fb-9f0c-0f4381f2e42b
+
+Description: 
+	"Topped commercial field</p>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> location(asset--land)
+		- Name: WHITEHORSE 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80485330237396
+		- Longitude: -0.38351422385815936
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+
+==============================================================================================
+
+Action:
+	Press Ploughed: White horse 2
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/6fdb6735-b9b4-4a14-b9a2-d070599ed8df
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Ploughing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: ploughing
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6021"
+	> location(asset--land)
+		- Name: WHITEHORSE 2
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80485330237396
+		- Longitude: -0.38351422385815936
+	> location(asset--land)
+		- Name: 2020/R/RAW/2025
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/RAW/2027
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Philip Watkins Press
+		- LastUpdate: 2020-11-26T13:27:14+00:00
+		- Description: "Agrovoc term: presses
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_35747"
+
+==============================================================================================
+
+Action:
+	Topping : FURZEFIELD 
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/16da8f35-8fd6-4cf5-8130-6514c2f5f07f
+
+Description: 
+	"<ul></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: FURZEFIELD
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.808958846808466
+		- Longitude: -0.3803911552325532
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+
+==============================================================================================
+
+Action:
+	Topping : GREAT KNOTT 1 
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/5a04d897-08b8-4685-ad1d-b0e1e6de720d
+
+Description: 
+	"<ul></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: GREAT KNOTT 1
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.81228697359023
+		- Longitude: -0.3823328476587994
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+
+==============================================================================================
+
+Action:
+	Press ploughing : FURZEFIELD 
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/c0bcb58b-2cd9-452c-977b-a88db4c8cc0b
+
+Description: 
+	"<ul></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Ploughing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: ploughing
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6021"
+	> location(asset--land)
+		- Name: FURZEFIELD
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.808958846808466
+		- Longitude: -0.3803911552325532
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: Philip Watkins Press
+		- LastUpdate: 2020-11-26T13:27:14+00:00
+		- Description: "Agrovoc term: presses
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_35747"
+
+==============================================================================================
+
+Action:
+	Path cutting: PARKGRASS 
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/b1df4d31-c4b3-4543-aeae-05e4f5ad093c
+
+Description: 
+	"<ul></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> location(asset--land)
+		- Name: PARKGRASS
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80391804817582
+		- Longitude: -0.3727513277534994
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: ISTH4335
+		- LastUpdate: 2021-02-02T14:14:35+00:00
+		- Description: "Note: Small Machinery Tractor
+
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Kilworth Topper
+		- LastUpdate: 2021-05-05T07:12:50+00:00
+		- Description: "Note: Used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+
+==============================================================================================
+
+Action:
+	Plot Rolling : GREAT FIELD 1/2 
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/9f4f3853-5f41-49d5-82f3-5fa04bb1a8aa
+
+Description: 
+	"<ul></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Rolling
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: rolling
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25797
+Agrovoc scope note: Use of a cylinder to crush lumps and to firm the soil, sometimes also to facilitate tillering of cereals (en)
+Note: Rolling is a seed bed consolidation and levelling process"
+	> location(asset--land)
+		- Name: 2020/R/RAW/2037
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: JD5070
+		- LastUpdate: 2021-02-02T13:51:53+00:00
+		- Description: "Note: Wide Wheeled Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: Plot Rolls
+		- LastUpdate: 2020-11-26T14:25:49+00:00
+		- Description: "Agrovoc term: rollers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6636"
+
+==============================================================================================
+
+Action:
+	Ploughing : SAWYERS 1 CS715 CS/715
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/d2503458-710f-40cf-9c70-dee510d58ad6
+
+Description: 
+	"<ul><li>Direction thrown: Thrown North </li><li>Notes: Ploughed wheat stubble only rape stubble to hand </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Field Trial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: field experimentation
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_33990"
+	> category(taxonomy_term--log_category)
+		- Name: Ploughing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: ploughing
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6021"
+	> location(asset--land)
+		- Name: 2020/R/CS/715 - Oat plots
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/CS/715 - Oat surrounds
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+
+==============================================================================================
+
+Action:
+	Rolling : SAWYERS 1 CS715 OSR Section
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/e40ea937-fea6-441d-aea4-67053e3850cf
+
+Description: 
+	"<ul><li>Notes: North end only (OSR)</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Field Trial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: field experimentation
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_33990"
+	> category(taxonomy_term--log_category)
+		- Name: Rolling
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: rolling
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25797
+Agrovoc scope note: Use of a cylinder to crush lumps and to firm the soil, sometimes also to facilitate tillering of cereals (en)
+Note: Rolling is a seed bed consolidation and levelling process"
+	> location(asset--land)
+		- Name: 2020/R/CS/715 - Oat plots
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> location(asset--land)
+		- Name: 2020/R/CS/715 - Oat surrounds
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Chris Mackay
+		- Mail: chris.mackay@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-22T15:44:49+00:00
+	> equipment(asset--equipment)
+		- Name: 6m Flexicoil Cambridge Roll
+		- LastUpdate: 2020-11-26T10:08:24+00:00
+		- Description: "Commercial Roll
+
+Agrovoc term: rollers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6636"
+
+==============================================================================================
+
+Action:
+	Topping: STACKYARD 
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/68aacbc5-ad47-4765-bab1-2d635f891a19
+
+Description: 
+	"<ul></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Topping
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: topping
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25716
+Agrovoc scope note: Breaking off the top of a plant
+Note: usually done in order to prevent seed formation and distribution onto the soil"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: STACKYARD
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.808400452556306
+		- Longitude: -0.3686067032505246
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Batwing Topper
+		- LastUpdate: 2020-11-26T10:58:43+00:00
+		- Description: "Note: used to cut or 'mow' crops, grass and weeds
+
+Agrovoc term: toppers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7816"
+
+==============================================================================================
+
+Action:
+	Cultivation: GEESCROFT 
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/ef5d50bd-cdc9-4dd9-b74c-3795507cd7f0
+
+Description: 
+	"<ul></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Tillage
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: tillage
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_7771
+Agrovoc definition:  Tillage aims to create a soil environment favourable to plant growth (Klute 1982). Definitions of tillage vary. According to Lal (1979a, 1983) it is defined as physical, chemical or biological soil manipulation to optimize conditions for germination, seedling establishment and crop growth. Ahn and Hintze (1990), however, define it as any physical loosening of the soil carried out in a range of cultivation operations, either by hand or mechanized. Soil manipulation can change fertility status markedly and the changes may be manifested in good or poor performance of crops (Ohiri and Ezumah 1991). In addition, tillage operations loosen, granulate, crush or compact soil structure, changing soil properties such as bulk density, pore size distribution and composition of the soil atmosphere that affect plant growth.(en)"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: GEESCROFT
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.802927937551985
+		- Longitude: -0.36161359881134264
+	> owner(user--user)
+		- Name: Rob Copley
+		- Mail: robert.copley@rothamsted.ac.uk
+		- TimeZone: America/New_York
+		- LastUpdate: 2022-03-21T21:59:21+00:00
+	> equipment(asset--equipment)
+		- Name: Lemkin Karat 9KU
+		- LastUpdate: 2020-11-26T14:24:14+00:00
+		- Description: "Note: Minimum Tillage - Stubble Cultivator. 3.5m wide
+
+Agrovoc term: 
+Agrovoc url: "
+
+==============================================================================================
+
+Action:
+	Ploughing: NEW ZEALAND CS/760
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/f30a9485-01c3-4d51-932d-1d6d5da777b2
+
+Description: 
+	"<ul><li>Direction thrown: Thrown East </li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Field Trial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: field experimentation
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_33990"
+	> category(taxonomy_term--log_category)
+		- Name: Ploughing
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: ploughing
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_6021"
+	> location(asset--land)
+		- Name: 2020/R/CS/760
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Fred Ledbury
+		- Mail: fred@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-21T21:59:06+00:00
+	> equipment(asset--equipment)
+		- Name: NHT7210
+		- LastUpdate: 2021-05-06T09:14:46+00:00
+		- Description: "Note: Cultivations Tractor
+Agrovoc term: wheeled tractors
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25813"
+	> equipment(asset--equipment)
+		- Name: KV Five Furrow Plough
+		- LastUpdate: 2020-11-26T15:31:58+00:00
+		- Description: "Note: 5 Furrow reversible, 1.5m wide
+
+Agrovoc term: reversible ploughs
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25910"
+
+==============================================================================================
+
+Action:
+	Subsoiling : LONG HOOS 4 
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/df0ba1d8-85e6-4318-a8aa-54ea68861270
+
+Description: 
+	"<ul><li>Notes: Tramlines + headlands only</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Subsoiling
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: subsoiling
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_15593
+Agrovoc scope note: Tillage of the subsoil or soil pan below the normal plough depth (en)"
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> location(asset--land)
+		- Name: LONG HOOS 4
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.813893805047336
+		- Longitude: -0.37455773533721215
+	> owner(user--user)
+		- Name: Fred Ledbury
+		- Mail: fred@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-21T21:59:06+00:00
+	> equipment(asset--equipment)
+		- Name: Simba Flat Lift
+		- LastUpdate: 2020-11-26T15:39:01+00:00
+		- Description: "Agrovoc term: subsoilers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25808
+"
+
+==============================================================================================
+
+Action:
+	Subsoiling : NEW ZEALAND 
+
+Link:
+	https://rothamstedfarm.farmos.net/api/log/activity/06f2f175-5b47-4f85-9fc5-ae74e01367f2
+
+Description: 
+	"<ul><li>Notes: Tramlines + headlands only</li></ul>"
+
+Informations:
+	> revision_user(user--user)
+		- Name: Anonymous
+	> uid(user--user)
+		- Name: Richard Ostler
+		- Mail: richard.ostler@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-06-07T16:21:50+00:00
+	> category(taxonomy_term--log_category)
+		- Name: Commercial
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: commercial farming
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_1779
+Agrovoc definition:  The production of agricultural goods for sale(en)
+Note: Indicates if the operation is to a commercial area (field containing only commercial)"
+	> category(taxonomy_term--log_category)
+		- Name: Subsoiling
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Description: "Agrovoc term: subsoiling
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_15593
+Agrovoc scope note: Tillage of the subsoil or soil pan below the normal plough depth (en)"
+	> location(asset--land)
+		- Name: NEW ZEALAND
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: field
+		- Latitude: 51.80992350486201
+		- Longitude: -0.3675345844335422
+	> location(asset--land)
+		- Name: 2020/R/RS/2009
+		- LastUpdate: 2022-03-21T19:05:44+00:00
+		- Type: bed
+	> owner(user--user)
+		- Name: Fred Ledbury
+		- Mail: fred@rothamsted.ac.uk
+		- TimeZone: Europe/London
+		- LastUpdate: 2022-03-21T21:59:06+00:00
+	> equipment(asset--equipment)
+		- Name: Simba Flat Lift
+		- LastUpdate: 2020-11-26T15:39:01+00:00
+		- Description: "Agrovoc term: subsoilers
+Agrovoc url: http://aims.fao.org/aos/agrovoc/c_25808
+"
+
+==============================================================================================
+
